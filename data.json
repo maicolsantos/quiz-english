@@ -1,0 +1,1364 @@
+{
+  "quiz": {
+    "title": "English Language Quiz",
+    "level": [
+      "B2",
+      "C1"
+    ],
+    "questions": [
+      {
+        "level": "B2",
+        "question": "Choose the correct word to complete the sentence: 'She decided to take a break from her studies to _______ some work experience.'",
+        "options": {
+          "a": "acquire",
+          "b": "obtain",
+          "c": "gain",
+          "d": "earn"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "B2",
+        "question": "Which of the following is a synonym of 'contemplate'?",
+        "options": {
+          "a": "ignore",
+          "b": "disregard",
+          "c": "consider",
+          "d": "forget"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence with the correct preposition: 'I'm looking forward _______ hearing from you.'",
+        "options": {
+          "a": "for",
+          "b": "to",
+          "c": "on",
+          "d": "at"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "What is the synonym of 'essential'?",
+        "options": {
+          "a": "optional",
+          "b": "vital",
+          "c": "useless",
+          "d": "insignificant"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Identify the correct sentence structure: 'She has been to Paris last year.'",
+        "options": {
+          "a": "The sentence is correct.",
+          "b": "The sentence has a subject-verb disagreement.",
+          "c": "The sentence uses incorrect tense.",
+          "d": "The sentence contains a run-on structure."
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "B2",
+        "question": "Which word best fits the following sentence: 'The room was filled with an _______ scent of fresh flowers.'",
+        "options": {
+          "a": "intense",
+          "b": "mild",
+          "c": "odorless",
+          "d": "unpleasant"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct synonym for 'persistent':",
+        "options": {
+          "a": "fleeting",
+          "b": "temporary",
+          "c": "tenacious",
+          "d": "sporadic"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'The company offered him a _____ job after his internship.'",
+        "options": {
+          "a": "permanent",
+          "b": "temp",
+          "c": "seasonal",
+          "d": "volunteer"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Which of the following phrases is used to express disagreement politely?",
+        "options": {
+          "a": "You're absolutely right.",
+          "b": "I couldn't agree more.",
+          "c": "I'm afraid I have to disagree.",
+          "d": "That's exactly what I was thinking."
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct answer: 'She was known for her extraordinary talent in ______.'",
+        "options": {
+          "a": "painting",
+          "b": "bake",
+          "c": "dancing",
+          "d": "playing instruments"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Fill in the blank: 'The room is well-lit because it has ______ windows.'",
+        "options": {
+          "a": "narrow",
+          "b": "large",
+          "c": "thick",
+          "d": "small"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'The meeting has been postponed to ______ date.'",
+        "options": {
+          "a": "later",
+          "b": "last",
+          "c": "yesterday",
+          "d": "early"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct answer: 'The athletes trained hard in preparation for the ______.'",
+        "options": {
+          "a": "competition",
+          "b": "holiday",
+          "c": "party",
+          "d": "gathering"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Identify the grammatical error in the sentence: 'I did not received your email.'",
+        "options": {
+          "a": "Incorrect use of verb tense.",
+          "b": "Incorrect verb form.",
+          "c": "Incorrect use of preposition.",
+          "d": "Incorrect use of noun."
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the appropriate word to complete the sentence: 'The government ______ new policies to address the issue.'",
+        "options": {
+          "a": "implemented",
+          "b": "created",
+          "c": "ignored",
+          "d": "rejected"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Fill in the blank: 'She was ______ when she heard the good news.'",
+        "options": {
+          "a": "thrilled",
+          "b": "disappointed",
+          "c": "sad",
+          "d": "indifferent"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'The dog was ______ and couldn't walk properly.'",
+        "options": {
+          "a": "energetic",
+          "b": "limping",
+          "c": "sleeping",
+          "d": "running"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the synonym for 'arbitrary':",
+        "options": {
+          "a": "planned",
+          "b": "random",
+          "c": "controlled",
+          "d": "organized"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Which of the following phrases is used to express uncertainty?",
+        "options": {
+          "a": "I'm not sure.",
+          "b": "I know it for sure.",
+          "c": "That's a fact.",
+          "d": "I'm confident."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'The weather was ______ yesterday.'",
+        "options": {
+          "a": "sunny",
+          "b": "stormy",
+          "c": "cloudy",
+          "d": "rainy"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the synonym for 'convenient':",
+        "options": {
+          "a": "inconvenient",
+          "b": "bothersome",
+          "c": "troublesome",
+          "d": "accessible"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "B2",
+        "question": "Fill in the blank: 'The restaurant is famous for its ______ service.'",
+        "options": {
+          "a": "excellent",
+          "b": "poor",
+          "c": "mediocre",
+          "d": "slow"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct option: 'He was ______ by the news.'",
+        "options": {
+          "a": "excited",
+          "b": "dismayed",
+          "c": "neutral",
+          "d": "indifferent"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'The party will take place ______ Saturday.'",
+        "options": {
+          "a": "in",
+          "b": "on",
+          "c": "at",
+          "d": "by"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct answer: 'The project was delayed due to ______ circumstances.'",
+        "options": {
+          "a": "unforeseen",
+          "b": "predictable",
+          "c": "expected",
+          "d": "known"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Fill in the blank: 'She ______ her presentation with confidence.'",
+        "options": {
+          "a": "delivered",
+          "b": "read",
+          "c": "listened to",
+          "d": "watched"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct synonym for 'inevitable':",
+        "options": {
+          "a": "avoidable",
+          "b": "unavoidable",
+          "c": "likely",
+          "d": "uncertain"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'The singer's performance was ______ and received a standing ovation.'",
+        "options": {
+          "a": "mediocre",
+          "b": "amazing",
+          "c": "subpar",
+          "d": "average"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the appropriate option: 'The company is known for its ______ approach to customer service.'",
+        "options": {
+          "a": "innovative",
+          "b": "traditional",
+          "c": "outdated",
+          "d": "inefficient"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Identify the grammatical error in the sentence: 'I can't hardly believe my eyes.'",
+        "options": {
+          "a": "Double negative.",
+          "b": "Incorrect use of pronoun.",
+          "c": "Subject-verb disagreement.",
+          "d": "Incorrect verb form."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct answer: 'The kids were excited to go to the ______.'",
+        "options": {
+          "a": "school",
+          "b": "library",
+          "c": "zoo",
+          "d": "museum"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "B2",
+        "question": "Fill in the blank: 'The actor's performance was ______ by the critics.'",
+        "options": {
+          "a": "ignored",
+          "b": "praised",
+          "c": "dismissed",
+          "d": "criticized"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the appropriate answer: 'The company is planning to ______ its operations.'",
+        "options": {
+          "a": "expand",
+          "b": "reduce",
+          "c": "stop",
+          "d": "suspend"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct option: 'The ______ decision was to hire more staff.'",
+        "options": {
+          "a": "final",
+          "b": "indecisive",
+          "c": "interim",
+          "d": "initial"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Fill in the blank: 'She always makes an effort to ______ the office environment.'",
+        "options": {
+          "a": "improve",
+          "b": "damage",
+          "c": "disrupt",
+          "d": "ignore"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'The restaurant offers a ______ selection of international dishes.'",
+        "options": {
+          "a": "limited",
+          "b": "narrow",
+          "c": "wide",
+          "d": "sparse"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct synonym for 'ambitious':",
+        "options": {
+          "a": "unambitious",
+          "b": "aspiring",
+          "c": "carefree",
+          "d": "modest"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the appropriate word to complete the sentence: 'The ______ changes improved the product significantly.'",
+        "options": {
+          "a": "minor",
+          "b": "major",
+          "c": "trivial",
+          "d": "detrimental"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct answer: 'The project was delayed due to ______ circumstances.'",
+        "options": {
+          "a": "unforeseen",
+          "b": "predictable",
+          "c": "expected",
+          "d": "known"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'Neither the manager or the employees were satisfied with the outcome.'",
+        "options": {
+          "a": "The subject-verb agreement is incorrect.",
+          "b": "'Neither' should be followed by 'nor'.",
+          "c": "The verb tense is inconsistent.",
+          "d": "The sentence is in passive voice."
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Read the following passage and answer the question: 'Many people think that technology is the enemy of culture, but the truth is that it can be a powerful ally. By providing access to diverse content, technology helps to preserve and share cultural heritage.' What is the author's main argument?",
+        "options": {
+          "a": "Technology harms cultural heritage.",
+          "b": "Technology can aid in the preservation and sharing of culture.",
+          "c": "Technology is irrelevant to cultural heritage.",
+          "d": "Cultural heritage should be protected from technology."
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the synonym for 'erudite':",
+        "options": {
+          "a": "ignorant",
+          "b": "knowledgeable",
+          "c": "unintelligent",
+          "d": "naive"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The decision was made ______ consulting the team.'",
+        "options": {
+          "a": "without",
+          "b": "after",
+          "c": "before",
+          "d": "upon"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'lucid':",
+        "options": {
+          "a": "unclear",
+          "b": "opaque",
+          "c": "clear",
+          "d": "hazy"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'I have never done nothing wrong.'",
+        "options": {
+          "a": "Incorrect use of double negative.",
+          "b": "Subject-verb disagreement.",
+          "c": "Incorrect use of pronoun.",
+          "d": "Verb tense inconsistency."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'She has a natural talent ______ music.'",
+        "options": {
+          "a": "in",
+          "b": "of",
+          "c": "for",
+          "d": "with"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate word to complete the sentence: 'The company faced a ______ financial crisis.'",
+        "options": {
+          "a": "minor",
+          "b": "significant",
+          "c": "slight",
+          "d": "moderate"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'tenacious':",
+        "options": {
+          "a": "persistent",
+          "b": "flexible",
+          "c": "yielding",
+          "d": "compliant"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The board ______ the decision after careful consideration.'",
+        "options": {
+          "a": "rejected",
+          "b": "accepted",
+          "c": "postponed",
+          "d": "revised"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Which of the following phrases is used to express certainty?",
+        "options": {
+          "a": "I think",
+          "b": "It might",
+          "c": "I'm confident",
+          "d": "I'm not sure"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The evidence ______ that the theory was correct.'",
+        "options": {
+          "a": "negates",
+          "b": "supports",
+          "c": "opposes",
+          "d": "ignores"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'He neither called me or sent me a message.'",
+        "options": {
+          "a": "'Neither' should be followed by 'nor'.",
+          "b": "The subject-verb agreement is incorrect.",
+          "c": "The verb tense is inconsistent.",
+          "d": "The sentence is in passive voice."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The professor's lecture was ______ and well-researched.'",
+        "options": {
+          "a": "incoherent",
+          "b": "disjointed",
+          "c": "organized",
+          "d": "random"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Read the following passage and answer the question: 'The rise of social media has brought about new challenges in the field of communication. While it has connected people across the globe, it has also led to concerns about the spread of misinformation.' What is the author's main concern?",
+        "options": {
+          "a": "Social media enhances communication.",
+          "b": "Social media improves global connectivity.",
+          "c": "Social media is a reliable source of information.",
+          "d": "Social media spreads misinformation."
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The committee made a decision ______ the evidence presented.'",
+        "options": {
+          "a": "before",
+          "b": "during",
+          "c": "after",
+          "d": "without"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'She works hardly to achieve her goals.'",
+        "options": {
+          "a": "Incorrect use of adverb form.",
+          "b": "Incorrect use of pronoun.",
+          "c": "Subject-verb disagreement.",
+          "d": "Verb tense inconsistency."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the synonym for 'presumptuous':",
+        "options": {
+          "a": "polite",
+          "b": "arrogant",
+          "c": "humble",
+          "d": "respectful"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The meeting was held to ______ a plan for the project.'",
+        "options": {
+          "a": "reject",
+          "b": "approve",
+          "c": "propose",
+          "d": "ignore"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate word to complete the sentence: 'The team worked ______ to meet the deadline.'",
+        "options": {
+          "a": "slowly",
+          "b": "leisurely",
+          "c": "diligently",
+          "d": "reluctantly"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'He is more intelligent then her.'",
+        "options": {
+          "a": "Incorrect use of pronoun.",
+          "b": "Incorrect verb form.",
+          "c": "Incorrect adjective comparison.",
+          "d": "Incorrect adverb form."
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The project's success was ______ the hard work of the team.'",
+        "options": {
+          "a": "despite",
+          "b": "due to",
+          "c": "in spite of",
+          "d": "regardless of"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the synonym for 'obsolete':",
+        "options": {
+          "a": "modern",
+          "b": "outdated",
+          "c": "new",
+          "d": "innovative"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The scientist's research has the potential to ______ a breakthrough in the field.'",
+        "options": {
+          "a": "hinder",
+          "b": "delay",
+          "c": "prevent",
+          "d": "lead to"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'She couldn't hardly wait for the results.'",
+        "options": {
+          "a": "Incorrect use of verb tense.",
+          "b": "Double negative.",
+          "c": "Subject-verb disagreement.",
+          "d": "Incorrect use of pronoun."
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The speaker's tone was ______ and engaging.'",
+        "options": {
+          "a": "monotonous",
+          "b": "monotone",
+          "c": "vibrant",
+          "d": "dull"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The company announced a new policy to ______ its environmental impact.'",
+        "options": {
+          "a": "decrease",
+          "b": "ignore",
+          "c": "increase",
+          "d": "maintain"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'conspicuous':",
+        "options": {
+          "a": "obscure",
+          "b": "evident",
+          "c": "hidden",
+          "d": "unknown"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'She don't like the new policy.'",
+        "options": {
+          "a": "Incorrect verb form.",
+          "b": "Incorrect use of pronoun.",
+          "c": "Subject-verb disagreement.",
+          "d": "Verb tense inconsistency."
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'meticulous':",
+        "options": {
+          "a": "careless",
+          "b": "thorough",
+          "c": "negligent",
+          "d": "sloppy"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate word to complete the sentence: 'The team was able to ______ the project on time.'",
+        "options": {
+          "a": "delay",
+          "b": "complete",
+          "c": "stop",
+          "d": "ignore"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'The project was completed underbudget and ahead of time.'",
+        "options": {
+          "a": "Subject-verb disagreement.",
+          "b": "Incorrect use of adverb form.",
+          "c": "Incorrect use of verb tense.",
+          "d": "Incorrect use of compound word."
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The artist's work was known for its ______ style.'",
+        "options": {
+          "a": "traditional",
+          "b": "unconventional",
+          "c": "predictable",
+          "d": "repetitive"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The manager's decision was met with ______ by the staff.'",
+        "options": {
+          "a": "agreement",
+          "b": "approval",
+          "c": "resistance",
+          "d": "enthusiasm"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The company aims to ______ its global presence.'",
+        "options": {
+          "a": "reduce",
+          "b": "decrease",
+          "c": "expand",
+          "d": "eliminate"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'comprehensive':",
+        "options": {
+          "a": "limited",
+          "b": "thorough",
+          "c": "partial",
+          "d": "fragmented"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The project was delayed due to ______ issues.'",
+        "options": {
+          "a": "technical",
+          "b": "logistical",
+          "c": "budgetary",
+          "d": "all of the above"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The singer's performance was ______ and received a standing ovation.'",
+        "options": {
+          "a": "mediocre",
+          "b": "amazing",
+          "c": "subpar",
+          "d": "average"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The new policy is designed to ______ employee productivity.'",
+        "options": {
+          "a": "increase",
+          "b": "decrease",
+          "c": "maintain",
+          "d": "ignore"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate word to complete the sentence: 'The teacher's explanation ______ the students' understanding of the topic.'",
+        "options": {
+          "a": "hindered",
+          "b": "limited",
+          "c": "enhanced",
+          "d": "obstructed"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The company's new strategy is expected to ______ sales.'",
+        "options": {
+          "a": "decrease",
+          "b": "maintain",
+          "c": "boost",
+          "d": "stabilize"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The research findings ______ the hypothesis.'",
+        "options": {
+          "a": "negate",
+          "b": "support",
+          "c": "oppose",
+          "d": "diminish"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The speaker's argument was ______ and persuasive.'",
+        "options": {
+          "a": "weak",
+          "b": "confusing",
+          "c": "compelling",
+          "d": "incoherent"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct answer: 'The book offers a ______ account of the author's life.'",
+        "options": {
+          "a": "vague",
+          "b": "comprehensive",
+          "c": "partial",
+          "d": "fragmented"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The director's vision ______ the film's success.'",
+        "options": {
+          "a": "limited",
+          "b": "obstructed",
+          "c": "hindered",
+          "d": "contributed to"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'He done well on the exam.'",
+        "options": {
+          "a": "Incorrect use of verb tense.",
+          "b": "Subject-verb disagreement.",
+          "c": "Incorrect use of pronoun.",
+          "d": "Incorrect adjective comparison."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'paradox':",
+        "options": {
+          "a": "contradiction",
+          "b": "certainty",
+          "c": "truth",
+          "d": "obviousness"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct answer: 'The manager's decision was ______ by the board of directors.'",
+        "options": {
+          "a": "supported",
+          "b": "challenged",
+          "c": "ignored",
+          "d": "opposed"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The team worked diligently to ______ the project on time.'",
+        "options": {
+          "a": "finish",
+          "b": "ignore",
+          "c": "delay",
+          "d": "cancel"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The product's quality is ______ important to its success.'",
+        "options": {
+          "a": "moderately",
+          "b": "less",
+          "c": "highly",
+          "d": "barely"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'opaque':",
+        "options": {
+          "a": "transparent",
+          "b": "translucent",
+          "c": "cloudy",
+          "d": "clear"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The company's new policy is aimed at ______ employee satisfaction.'",
+        "options": {
+          "a": "decreasing",
+          "b": "ignoring",
+          "c": "reducing",
+          "d": "increasing"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'The meeting were scheduled for next week.'",
+        "options": {
+          "a": "Subject-verb disagreement.",
+          "b": "Incorrect verb tense.",
+          "c": "Verb tense inconsistency.",
+          "d": "Incorrect use of adverb form."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate word to complete the sentence: 'The project is currently in the ______ phase.'",
+        "options": {
+          "a": "concluding",
+          "b": "beginning",
+          "c": "planning",
+          "d": "implementation"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The company experienced a significant ______ in profits.'",
+        "options": {
+          "a": "decrease",
+          "b": "increase",
+          "c": "stabilization",
+          "d": "plateau"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'resilient':",
+        "options": {
+          "a": "fragile",
+          "b": "vulnerable",
+          "c": "unbreakable",
+          "d": "sensitive"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The company aims to ______ its environmental impact.'",
+        "options": {
+          "a": "minimize",
+          "b": "ignore",
+          "c": "increase",
+          "d": "maintain"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate word to complete the sentence: 'The project was successful, ______ to the team's hard work.'",
+        "options": {
+          "a": "regardless",
+          "b": "due",
+          "c": "despite",
+          "d": "contrary"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The conference focused on ______ trends in technology.'",
+        "options": {
+          "a": "past",
+          "b": "current",
+          "c": "future",
+          "d": "all of the above"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The new technology will ______ the efficiency of the process.'",
+        "options": {
+          "a": "hinder",
+          "b": "slow down",
+          "c": "improve",
+          "d": "halt"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The artist's work was known for its ______ approach to painting.'",
+        "options": {
+          "a": "traditional",
+          "b": "realistic",
+          "c": "experimental",
+          "d": "derivative"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'insidious':",
+        "options": {
+          "a": "harmless",
+          "b": "benign",
+          "c": "cunning",
+          "d": "obvious"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The company's strategy is to ______ its market share.'",
+        "options": {
+          "a": "decrease",
+          "b": "stabilize",
+          "c": "increase",
+          "d": "diminish"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'The project are scheduled to begin next week.'",
+        "options": {
+          "a": "Subject-verb disagreement.",
+          "b": "Incorrect verb form.",
+          "c": "Incorrect use of adverb form.",
+          "d": "Incorrect adjective comparison."
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The product's durability is ______ important for its longevity.'",
+        "options": {
+          "a": "less",
+          "b": "highly",
+          "c": "minimally",
+          "d": "negligibly"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'fortuitous':",
+        "options": {
+          "a": "unlucky",
+          "b": "inconsequential",
+          "c": "opportune",
+          "d": "detrimental"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The company's decision to ______ the project was based on careful analysis.'",
+        "options": {
+          "a": "delay",
+          "b": "approve",
+          "c": "reject",
+          "d": "ignore"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The new software is designed to ______ productivity.'",
+        "options": {
+          "a": "hinder",
+          "b": "improve",
+          "c": "slow down",
+          "d": "halt"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'He always do his homework on time.'",
+        "options": {
+          "a": "Incorrect verb form.",
+          "b": "Subject-verb disagreement.",
+          "c": "Incorrect use of pronoun.",
+          "d": "Verb tense inconsistency."
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The committee's decision was met with ______.'",
+        "options": {
+          "a": "indifference",
+          "b": "enthusiasm",
+          "c": "resistance",
+          "d": "neutrality"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate word to complete the sentence: 'The project was completed ______ of the challenges.'",
+        "options": {
+          "a": "in spite",
+          "b": "because",
+          "c": "regardless",
+          "d": "due"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The research team worked ______ to gather data.'",
+        "options": {
+          "a": "slowly",
+          "b": "casually",
+          "c": "diligently",
+          "d": "leisurely"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'Neither him or his friend were present at the meeting.'",
+        "options": {
+          "a": "Subject-verb disagreement.",
+          "b": "Incorrect verb tense.",
+          "c": "Incorrect use of pronoun.",
+          "d": "Neither' should be followed by 'nor'."
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The company's decision was based on ______ research.'",
+        "options": {
+          "a": "incomplete",
+          "b": "extensive",
+          "c": "limited",
+          "d": "insufficient"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct synonym for 'astute':",
+        "options": {
+          "a": "ignorant",
+          "b": "naive",
+          "c": "shrewd",
+          "d": "clueless"
+        },
+        "correct_option": "c"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The project was deemed successful ______ to its innovative approach.'",
+        "options": {
+          "a": "due",
+          "b": "despite",
+          "c": "in spite",
+          "d": "regardless"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The manager's decision was met with ______ by the team.'",
+        "options": {
+          "a": "enthusiasm",
+          "b": "resistance",
+          "c": "disinterest",
+          "d": "indifference"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The book offers a ______ analysis of the issue.'",
+        "options": {
+          "a": "superficial",
+          "b": "thorough",
+          "c": "incomplete",
+          "d": "vague"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The new employee is very ______ in their approach to work.'",
+        "options": {
+          "a": "careless",
+          "b": "diligent",
+          "c": "negligent",
+          "d": "reluctant"
+        },
+        "correct_option": "b"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The meeting was scheduled to ______ the new policy.'",
+        "options": {
+          "a": "discuss",
+          "b": "ignore",
+          "c": "delay",
+          "d": "cancel"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Identify the grammatical error in the sentence: 'He doesn't knows the answer.'",
+        "options": {
+          "a": "Subject-verb disagreement.",
+          "b": "Incorrect use of pronoun.",
+          "c": "Verb tense inconsistency.",
+          "d": "Incorrect verb form."
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate answer: 'The company's new policy is expected to ______ employee morale.'",
+        "options": {
+          "a": "improve",
+          "b": "lower",
+          "c": "diminish",
+          "d": "reduce"
+        },
+        "correct_option": "a"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The product was highly rated due to its ______.'",
+        "options": {
+          "a": "quality",
+          "b": "inexpensiveness",
+          "c": "durability",
+          "d": "all of the above"
+        },
+        "correct_option": "d"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The manager's decision was met with ______ by the staff.'",
+        "options": {
+          "a": "enthusiasm",
+          "b": "resistance",
+          "c": "support",
+          "d": "indifference"
+        },
+        "correct_option": "b"
+      }
+    ]
+  }
+}
