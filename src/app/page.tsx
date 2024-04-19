@@ -18,7 +18,9 @@ export default function Home() {
         <Question />
         <AnswerItem />
         <div className="w-full block mt-8">
-          <Button variant="secondary">Check Answer</Button>
+          <Button variant="secondary" className="w-full">
+            Check Answer
+          </Button>
         </div>
       </div>
     </div>
