@@ -7,14 +7,14 @@ import { MessageCircleQuestion } from 'lucide-react'
 export default function Home() {
   return (
     <div className="max-w-5xl mx-auto p-5 md:p-10">
-      <div className="flex items-end gap-2 mb-8">
-        <h1 className="scroll-m-20 text-4xl font-bold tracking-tight">
-          <MessageCircleQuestion size={40} />
-          Trivia English
-        </h1>
-        <Badge variant="destructive">C1</Badge>
-      </div>
+      <h1 className="scroll-m-20 text-4xl font-bold tracking-tight mb-8">
+        <MessageCircleQuestion size={40} />
+        Trivia English
+      </h1>
       <div className="flex flex-col gap-4">
+        <div className="flex items-end gap-2 ">
+          <Badge variant="destructive">C1</Badge>
+        </div>
         <Question />
         <AnswerItem />
         <div className="w-full block mt-8">
