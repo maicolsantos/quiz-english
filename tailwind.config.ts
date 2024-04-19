@@ -1,5 +1,5 @@
 import type { Config } from 'tailwindcss'
-const { fontFamily } = require('tailwindcss/defaultTheme')
+import { fontFamily } from 'tailwindcss/defaultTheme'
 
 /** @type {import('tailwindcss').Config} */
 const config = {
@@ -27,7 +27,7 @@ const config = {
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         fontFamily: {
-          sans: ['var(--font-sans)', ...fontFamily.sans],
+          sans: ['var(--font-sans)', ...fontFamily.sans].join(','),
         },
         primary: {
           DEFAULT: 'hsl(var(--primary))',
