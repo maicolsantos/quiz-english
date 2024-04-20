@@ -1,9 +1,10 @@
+import type { Question as QuestionType } from '@/@types/quiz'
 import { Options } from './options'
 import { Question } from './question'
 import { Badge } from './ui/badge'
 
 type QuestionContainerProps = {
-  data: Question
+  data: QuestionType
 }
 
 export const QuestionContainer = ({ data }: QuestionContainerProps) => {
