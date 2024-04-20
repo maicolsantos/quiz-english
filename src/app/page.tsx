@@ -1,16 +1,13 @@
 import { AnswerItem } from '@/components/answerItem'
+import { Header } from '@/components/header'
 import { Question } from '@/components/question'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { MessageCircleQuestion } from 'lucide-react'
 
 export default function Home() {
   return (
     <div className="max-w-5xl mx-auto p-5 md:p-10">
-      <h1 className="scroll-m-20 text-4xl font-bold tracking-tight mb-8">
-        <MessageCircleQuestion size={40} />
-        Trivia English
-      </h1>
+      <Header />
       <div className="flex flex-col gap-4">
         <div className="flex items-end gap-2 ">
           <Badge variant="destructive">C1</Badge>
