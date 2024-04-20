@@ -10,8 +10,8 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: 'Trivia English',
-  description: 'Learning English through trivia questions',
+  title: 'Quiz English',
+  description: 'Learning English through quiz questions',
 }
 
 export default function RootLayout({

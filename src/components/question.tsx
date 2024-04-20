@@ -1,9 +1,12 @@
-export const Question = () => {
+type QuestionProps = {
+  question: string
+}
+
+export const Question = ({ question }: QuestionProps) => {
   return (
     <p>
       {/*  eslint-disable-next-line react/no-unescaped-entities */}
-      Complete the sentence: The manager's decision was met with ______ by the
-      staff.
+      {question}
     </p>
   )
 }
