@@ -3,6 +3,7 @@ import type { QuizObject } from '@/@types/quiz'
 import { useEffect, useState } from 'react'
 import { Options } from './options'
 import { Question } from './question'
+import { QuestionLoading } from './questionLoading'
 import { Badge } from './ui/badge'
 
 type QuestionContainerProps = {
@@ -29,10 +30,10 @@ export const QuestionContainer = ({ data }: QuestionContainerProps) => {
 
   return (
     <div className="flex flex-col gap-4">
-      {loadingFirstQuestion && <p>Loading...</p>}
+      {loadingFirstQuestion && <QuestionLoading />}
       {!loadingFirstQuestion && (
         <>
-          <div className="flex items-end gap-2">
+          <div className="flex items-end">
             <Badge variant="destructive">
               {data.quiz.questions[questionItem].level}
             </Badge>
