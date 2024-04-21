@@ -135,7 +135,8 @@
           "c": "thick",
           "d": "small"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Large' is the correct option because it allows more natural light to enter the room, making it well-lit."
       },
       {
         "level": "B2",
@@ -146,7 +147,8 @@
           "c": "yesterday",
           "d": "early"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Later' is the correct option because it suggests the meeting has been rescheduled to a future date."
       },
       {
         "level": "B2",
@@ -157,7 +159,8 @@
           "c": "party",
           "d": "gathering"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Competition' is the correct option because it refers to an event where the athletes will participate and compete."
       },
       {
         "level": "B2",
@@ -168,7 +171,8 @@
           "c": "Incorrect use of preposition.",
           "d": "Incorrect use of noun."
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Incorrect verb form' is the correct choice because 'did not' should be followed by the base form of the verb ('receive'), not the past tense ('received')."
       },
       {
         "level": "B2",
@@ -179,7 +183,8 @@
           "c": "ignored",
           "d": "rejected"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Implemented' is the correct choice because it indicates the government put the new policies into action to address the issue."
       },
       {
         "level": "B2",
@@ -190,7 +195,8 @@
           "c": "sad",
           "d": "indifferent"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Thrilled' is the correct choice because it means she was very excited and happy upon hearing the good news."
       },
       {
         "level": "B2",
@@ -201,7 +207,8 @@
           "c": "sleeping",
           "d": "running"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Limping' is the correct choice because it means the dog was walking with difficulty due to an injury."
       },
       {
         "level": "B2",
@@ -212,7 +219,8 @@
           "c": "controlled",
           "d": "organized"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Random' is the correct synonym for 'arbitrary' because it suggests a lack of planning or control."
       },
       {
         "level": "B2",
@@ -223,7 +231,8 @@
           "c": "That's a fact.",
           "d": "I'm confident."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'I'm not sure.' is the correct choice because it explicitly expresses uncertainty."
       },
       {
         "level": "B2",
@@ -234,7 +243,8 @@
           "c": "cloudy",
           "d": "rainy"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Stormy' is the correct choice because it suggests there was severe weather with rain, wind, or other harsh conditions."
       },
       {
         "level": "B2",
@@ -245,7 +255,8 @@
           "c": "troublesome",
           "d": "accessible"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'Accessible' is the correct synonym for 'convenient' because it suggests ease of use or availability."
       },
       {
         "level": "B2",
@@ -256,7 +267,8 @@
           "c": "mediocre",
           "d": "slow"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Excellent' is the correct choice because the restaurant is renowned for its high-quality service."
       },
       {
         "level": "B2",
@@ -267,7 +279,8 @@
           "c": "neutral",
           "d": "indifferent"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Dismayed' is the correct choice because it means he was upset or disappointed by the news."
       },
       {
         "level": "B2",
@@ -278,7 +291,8 @@
           "c": "at",
           "d": "by"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'On' is the correct preposition for indicating the specific day the party will take place."
       },
       {
         "level": "B2",
@@ -289,7 +303,8 @@
           "c": "expected",
           "d": "known"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Unforeseen' is the correct choice because it suggests unexpected circumstances caused the project delay."
       },
       {
         "level": "B2",
@@ -300,7 +315,8 @@
           "c": "listened to",
           "d": "watched"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Delivered' is the correct choice because it means she gave her presentation confidently."
       },
       {
         "level": "B2",
@@ -311,7 +327,8 @@
           "c": "likely",
           "d": "uncertain"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Unavoidable' is the correct synonym for 'inevitable' as it means something that cannot be prevented."
       },
       {
         "level": "B2",
@@ -322,7 +339,8 @@
           "c": "subpar",
           "d": "average"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Amazing' is the correct choice because the singer's performance was exceptional and well-received."
       },
       {
         "level": "B2",
@@ -333,7 +351,8 @@
           "c": "outdated",
           "d": "inefficient"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Innovative' is the correct choice because it means the company adopts modern and creative methods in customer service."
       },
       {
         "level": "B2",
@@ -344,7 +363,8 @@
           "c": "Subject-verb disagreement.",
           "d": "Incorrect verb form."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Double negative' is the correct choice because 'can't' and 'hardly' both negate the verb 'believe,' which creates a grammatical error."
       },
       {
         "level": "B2",
@@ -355,7 +375,8 @@
           "c": "zoo",
           "d": "museum"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Zoo' is the correct choice because kids are often excited to visit a zoo and see the animals."
       },
       {
         "level": "B2",
@@ -366,7 +387,8 @@
           "c": "dismissed",
           "d": "criticized"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Praised' is the correct choice because it means the actor's performance was positively reviewed and appreciated by the critics."
       },
       {
         "level": "B2",
@@ -377,7 +399,8 @@
           "c": "stop",
           "d": "suspend"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Expand' is the correct choice because it suggests that the company plans to grow its operations."
       },
       {
         "level": "B2",
@@ -388,7 +411,8 @@
           "c": "interim",
           "d": "initial"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Final' is the correct choice because it indicates a firm decision to hire more staff."
       },
       {
         "level": "B2",
@@ -399,7 +423,8 @@
           "c": "disrupt",
           "d": "ignore"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Improve' is the correct choice because it suggests she strives to make the office environment better."
       },
       {
         "level": "B2",
@@ -410,7 +435,8 @@
           "c": "wide",
           "d": "sparse"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Wide' is the correct choice because it suggests the restaurant offers a broad range of international dishes."
       },
       {
         "level": "B2",
@@ -421,7 +447,8 @@
           "c": "carefree",
           "d": "modest"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Aspiring' is the correct synonym for 'ambitious' as it suggests a desire to achieve or accomplish something significant."
       },
       {
         "level": "B2",
@@ -432,7 +459,8 @@
           "c": "trivial",
           "d": "detrimental"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Major' is the correct choice because it suggests substantial changes that significantly improved the product."
       },
       {
         "level": "B2",
@@ -443,7 +471,8 @@
           "c": "expected",
           "d": "known"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Unforeseen' is the correct choice because it suggests unexpected circumstances caused the project delay."
       },
       {
         "level": "C1",
@@ -454,7 +483,8 @@
           "c": "The verb tense is inconsistent.",
           "d": "The sentence is in passive voice."
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Neither' should be followed by 'nor' instead of 'or' to maintain grammatical accuracy."
       },
       {
         "level": "C1",
@@ -465,7 +495,8 @@
           "c": "Technology is irrelevant to cultural heritage.",
           "d": "Cultural heritage should be protected from technology."
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "The author's main argument is that technology can aid in the preservation and sharing of culture by providing access to diverse content and helping to preserve cultural heritage."
       },
       {
         "level": "C1",
@@ -476,7 +507,8 @@
           "c": "unintelligent",
           "d": "naive"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Knowledgeable' is the correct synonym for 'erudite' because it describes someone who is well-educated and scholarly."
       },
       {
         "level": "C1",
@@ -487,7 +519,8 @@
           "c": "before",
           "d": "upon"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Without' is the correct choice because it indicates that the decision was made without consulting the team."
       },
       {
         "level": "C1",
@@ -498,7 +531,8 @@
           "c": "clear",
           "d": "hazy"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Clear' is the correct synonym for 'lucid' because it refers to something easily understood and transparent."
       },
       {
         "level": "C1",
@@ -509,7 +543,8 @@
           "c": "Incorrect use of pronoun.",
           "d": "Verb tense inconsistency."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "The sentence contains a double negative ('never' and 'nothing'), which creates a grammatical error. The correct form would be 'I have never done anything wrong.'"
       },
       {
         "level": "C1",
@@ -520,7 +555,8 @@
           "c": "for",
           "d": "with"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'For' is the correct preposition in this context to indicate a natural talent in a particular field, such as music."
       },
       {
         "level": "C1",
@@ -531,7 +567,8 @@
           "c": "slight",
           "d": "moderate"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Significant' is the correct choice because it describes a crisis that is substantial and noteworthy, suggesting a major impact on the company's finances."
       },
       {
         "level": "C1",
@@ -542,7 +579,8 @@
           "c": "yielding",
           "d": "compliant"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Persistent' is the correct synonym for 'tenacious' as it implies determination and perseverance despite obstacles."
       },
       {
         "level": "C1",
@@ -553,7 +591,8 @@
           "c": "postponed",
           "d": "revised"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Rejected' is the correct choice because it indicates that the board decided not to go ahead with the decision after careful consideration."
       },
       {
         "level": "C1",
@@ -564,7 +603,8 @@
           "c": "I'm confident",
           "d": "I'm not sure"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'I'm confident' expresses certainty because it indicates a strong belief or assurance about something."
       },
       {
         "level": "C1",
@@ -575,7 +615,8 @@
           "c": "opposes",
           "d": "ignores"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Supports' is the correct choice because it indicates that the evidence confirms or backs up the theory."
       },
       {
         "level": "C1",
@@ -586,7 +627,8 @@
           "c": "The verb tense is inconsistent.",
           "d": "The sentence is in passive voice."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "The correct conjunction to follow 'neither' is 'nor,' not 'or.' The sentence should be rephrased as 'He neither called me nor sent me a message.'"
       },
       {
         "level": "C1",
@@ -597,7 +639,8 @@
           "c": "organized",
           "d": "random"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Organized' is the correct choice because it suggests the lecture was structured and well-researched."
       },
       {
         "level": "C1",
@@ -608,7 +651,8 @@
           "c": "Social media is a reliable source of information.",
           "d": "Social media spreads misinformation."
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "The author's main concern is the spread of misinformation through social media."
       },
       {
         "level": "C1",
@@ -619,7 +663,8 @@
           "c": "after",
           "d": "without"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'After' is the correct choice because the committee made its decision based on the evidence presented."
       },
       {
         "level": "C1",
@@ -630,7 +675,8 @@
           "c": "Subject-verb disagreement.",
           "d": "Verb tense inconsistency."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Hardly' should be replaced with 'hard' because 'hardly' changes the meaning to almost never working. The correct sentence should be 'She works hard to achieve her goals.'"
       },
       {
         "level": "C1",
@@ -641,7 +687,8 @@
           "c": "humble",
           "d": "respectful"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Arrogant' is the correct synonym for 'presumptuous' as it implies taking liberties or assuming something without justification."
       },
       {
         "level": "C1",
@@ -652,7 +699,8 @@
           "c": "propose",
           "d": "ignore"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Propose' is the correct choice because it implies presenting a plan for consideration during the meeting."
       },
       {
         "level": "C1",
@@ -663,7 +711,8 @@
           "c": "diligently",
           "d": "reluctantly"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Diligently' is the correct choice because it suggests the team worked carefully and steadily to meet the deadline."
       },
       {
         "level": "C1",
@@ -674,7 +723,8 @@
           "c": "Incorrect adjective comparison.",
           "d": "Incorrect adverb form."
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "The correct comparison should be 'than' instead of 'then.' The correct sentence should be 'He is more intelligent than her.'"
       },
       {
         "level": "C1",
@@ -685,7 +735,8 @@
           "c": "in spite of",
           "d": "regardless of"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Due to' is the correct choice because it indicates the project's success is a direct result of the hard work of the team."
       },
       {
         "level": "C1",
@@ -696,7 +747,8 @@
           "c": "new",
           "d": "innovative"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Outdated' is the correct synonym for 'obsolete,' as it means no longer in use or in fashion due to being superseded by something newer."
       },
       {
         "level": "C1",
@@ -707,7 +759,8 @@
           "c": "prevent",
           "d": "lead to"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'Lead to' is the correct choice because the scientist's research has the potential to result in a breakthrough in the field."
       },
       {
         "level": "C1",
@@ -718,7 +771,8 @@
           "c": "Subject-verb disagreement.",
           "d": "Incorrect use of pronoun."
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "The sentence contains a double negative ('couldn't hardly'), which is grammatically incorrect. The sentence should be rephrased as 'She could hardly wait for the results.'"
       },
       {
         "level": "C1",
@@ -729,7 +783,8 @@
           "c": "vibrant",
           "d": "dull"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Vibrant' is the correct answer because it suggests a lively and engaging tone from the speaker."
       },
       {
         "level": "C1",
@@ -740,7 +795,8 @@
           "c": "increase",
           "d": "maintain"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Decrease' is the correct choice because the new policy aims to reduce the company's environmental impact."
       },
       {
         "level": "C1",
@@ -751,7 +807,8 @@
           "c": "hidden",
           "d": "unknown"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Evident' is the correct synonym for 'conspicuous,' as both words mean easily seen or noticeable."
       },
       {
         "level": "C1",
@@ -762,7 +819,8 @@
           "c": "Subject-verb disagreement.",
           "d": "Verb tense inconsistency."
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "The sentence contains a subject-verb disagreement; 'don't' is incorrect because it is singular, and the subject 'She' requires 'doesn't.' The sentence should be rephrased as 'She doesn't like the new policy.'"
       },
       {
         "level": "C1",
@@ -773,7 +831,8 @@
           "c": "negligent",
           "d": "sloppy"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Thorough' is the correct synonym for 'meticulous,' as both words mean showing great attention to detail and precision."
       },
       {
         "level": "C1",
@@ -784,7 +843,8 @@
           "c": "stop",
           "d": "ignore"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Complete' is the correct choice because the team was able to finish the project on time."
       },
       {
         "level": "C1",
@@ -795,7 +855,8 @@
           "c": "Incorrect use of verb tense.",
           "d": "Incorrect use of compound word."
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'Underbudget' is a compound word that is incorrect in this context. The correct form should be 'under budget.'"
       },
       {
         "level": "C1",
@@ -806,7 +867,8 @@
           "c": "predictable",
           "d": "repetitive"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Unconventional' is the correct choice because the artist's work was known for being unusual and different from traditional styles."
       },
       {
         "level": "C1",
@@ -817,7 +879,8 @@
           "c": "resistance",
           "d": "enthusiasm"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Resistance' is the correct answer because the staff reacted negatively to the manager's decision."
       },
       {
         "level": "C1",
@@ -828,7 +891,8 @@
           "c": "expand",
           "d": "eliminate"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Expand' is the correct choice because the company wants to increase its global presence."
       },
       {
         "level": "C1",
@@ -839,7 +903,8 @@
           "c": "partial",
           "d": "fragmented"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Thorough' is the correct synonym for 'comprehensive,' as both words mean covering all or nearly all aspects of something."
       },
       {
         "level": "C1",
@@ -850,7 +915,8 @@
           "c": "budgetary",
           "d": "all of the above"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'All of the above' is the correct choice because technical, logistical, and budgetary issues could all lead to delays in the project."
       },
       {
         "level": "C1",
@@ -861,7 +927,8 @@
           "c": "subpar",
           "d": "average"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Amazing' is the correct answer because it indicates an exceptional performance that warranted a standing ovation."
       },
       {
         "level": "C1",
@@ -872,7 +939,8 @@
           "c": "maintain",
           "d": "ignore"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Increase' is the correct choice because the new policy aims to boost employee productivity."
       },
       {
         "level": "C1",
@@ -883,7 +951,8 @@
           "c": "enhanced",
           "d": "obstructed"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Enhanced' is the correct choice because the teacher's explanation improved the students' understanding of the topic."
       },
       {
         "level": "C1",
@@ -894,7 +963,8 @@
           "c": "boost",
           "d": "stabilize"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Boost' is the correct choice because the company's new strategy is expected to increase sales."
       },
       {
         "level": "C1",
@@ -905,7 +975,8 @@
           "c": "oppose",
           "d": "diminish"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Support' is the correct option because the research findings align with and back the hypothesis."
       },
       {
         "level": "C1",
@@ -916,7 +987,8 @@
           "c": "compelling",
           "d": "incoherent"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Compelling' is the correct choice because the speaker's argument was strong and convincing."
       },
       {
         "level": "C1",
@@ -927,7 +999,8 @@
           "c": "partial",
           "d": "fragmented"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Comprehensive' is the correct choice because the book provides a thorough account of the author's life."
       },
       {
         "level": "C1",
@@ -938,7 +1011,8 @@
           "c": "hindered",
           "d": "contributed to"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'Contributed to' is the correct choice because the director's vision played a key role in the film's success."
       },
       {
         "level": "C1",
@@ -949,7 +1023,8 @@
           "c": "Incorrect use of pronoun.",
           "d": "Incorrect adjective comparison."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "The error is the incorrect use of verb tense; 'done' should be 'did' for the past tense."
       },
       {
         "level": "C1",
@@ -960,7 +1035,8 @@
           "c": "truth",
           "d": "obviousness"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Contradiction' is the correct synonym for 'paradox' because it represents two opposing or contradictory ideas."
       },
       {
         "level": "C1",
@@ -971,7 +1047,8 @@
           "c": "ignored",
           "d": "opposed"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Supported' is the correct option because the board of directors agreed with the manager's decision."
       },
       {
         "level": "C1",
@@ -982,7 +1059,8 @@
           "c": "delay",
           "d": "cancel"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Finish' is the correct choice because it aligns with the team's diligent work to complete the project on time."
       },
       {
         "level": "C1",
@@ -993,7 +1071,8 @@
           "c": "highly",
           "d": "barely"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Highly' is the correct choice because the quality of a product is crucial to its success."
       },
       {
         "level": "C1",
@@ -1004,7 +1083,8 @@
           "c": "cloudy",
           "d": "clear"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Cloudy' is the correct synonym for 'opaque' because it refers to something that is not clear or transparent."
       },
       {
         "level": "C1",
@@ -1015,7 +1095,8 @@
           "c": "reducing",
           "d": "increasing"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'Increasing' is the correct option because the policy aims to boost employee satisfaction."
       },
       {
         "level": "C1",
@@ -1026,7 +1107,8 @@
           "c": "Verb tense inconsistency.",
           "d": "Incorrect use of adverb form."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "The error is a subject-verb disagreement because 'meeting' is singular and should be followed by 'was scheduled.'"
       },
       {
         "level": "C1",
@@ -1037,7 +1119,8 @@
           "c": "planning",
           "d": "implementation"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'Implementation' is the correct choice because the project is in the phase of putting plans into action."
       },
       {
         "level": "C1",
@@ -1048,7 +1131,8 @@
           "c": "stabilization",
           "d": "plateau"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Increase' is the correct option because the company experienced a significant rise in profits."
       },
       {
         "level": "C1",
@@ -1059,7 +1143,8 @@
           "c": "unbreakable",
           "d": "sensitive"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Unbreakable' is the correct synonym for 'resilient' because it indicates the ability to withstand challenges."
       },
       {
         "level": "C1",
@@ -1070,7 +1155,8 @@
           "c": "increase",
           "d": "maintain"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Minimize' is the correct choice because the company aims to reduce its environmental impact as much as possible."
       },
       {
         "level": "C1",
@@ -1081,7 +1167,8 @@
           "c": "despite",
           "d": "contrary"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Due' is the correct choice because it indicates the success of the project is attributed to the team's hard work."
       },
       {
         "level": "C1",
@@ -1092,7 +1179,8 @@
           "c": "future",
           "d": "all of the above"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "The correct choice is 'all of the above' because the conference focused on trends from past, present, and future perspectives."
       },
       {
         "level": "C1",
@@ -1103,7 +1191,8 @@
           "c": "improve",
           "d": "halt"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Improve' is the correct choice because new technology often aims to increase efficiency, not hinder or slow down the process."
       },
       {
         "level": "C1",
@@ -1114,7 +1203,8 @@
           "c": "experimental",
           "d": "derivative"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Experimental' is the correct option because it indicates the artist's work was characterized by innovative and unconventional approaches to painting."
       },
       {
         "level": "C1",
@@ -1125,7 +1215,8 @@
           "c": "cunning",
           "d": "obvious"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Cunning' is the correct synonym for 'insidious,' which refers to something harmful or deceptive in a subtle or sneaky way."
       },
       {
         "level": "C1",
@@ -1136,7 +1227,8 @@
           "c": "increase",
           "d": "diminish"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Increase' is the correct option because the company's strategy aims to grow its market share."
       },
       {
         "level": "C1",
@@ -1147,7 +1239,8 @@
           "c": "Incorrect use of adverb form.",
           "d": "Incorrect adjective comparison."
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "The sentence contains a subject-verb disagreement because 'project' is singular and should be followed by 'is scheduled.'"
       },
       {
         "level": "C1",
@@ -1158,7 +1251,8 @@
           "c": "minimally",
           "d": "negligibly"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Highly' is the correct choice because the durability of the product is a key factor in determining its longevity and overall quality."
       },
       {
         "level": "C1",
@@ -1169,7 +1263,8 @@
           "c": "opportune",
           "d": "detrimental"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "The correct option is 'opportune' because 'fortuitous' refers to something happening by chance in a positive or advantageous way. The other options describe negative or neutral situations."
       },
       {
         "level": "C1",
@@ -1180,7 +1275,8 @@
           "c": "reject",
           "d": "ignore"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "The correct option is 'approve' because the sentence indicates a decision was made based on careful analysis, suggesting the project was given the go-ahead."
       },
       {
         "level": "C1",
@@ -1191,7 +1287,8 @@
           "c": "slow down",
           "d": "halt"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Improve' is the correct option because new software is often developed to increase efficiency and productivity, not to decrease it."
       },
       {
         "level": "C1",
@@ -1202,7 +1299,8 @@
           "c": "Incorrect use of pronoun.",
           "d": "Verb tense inconsistency."
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "The sentence contains a subject-verb disagreement. The singular subject 'he' requires the verb form 'does,' not 'do.'"
       },
       {
         "level": "C1",
@@ -1213,7 +1311,8 @@
           "c": "resistance",
           "d": "neutrality"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Enthusiasm' is the correct option because the committee's decision was met with positive and eager support, not resistance or indifference."
       },
       {
         "level": "C1",
@@ -1224,7 +1323,8 @@
           "c": "regardless",
           "d": "due"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'In spite' is the correct choice because it is used to express overcoming challenges or difficulties during the project."
       },
       {
         "level": "C1",
@@ -1235,7 +1335,8 @@
           "c": "diligently",
           "d": "leisurely"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Diligently' is the correct choice because it suggests working with great care and effort, which is important in gathering accurate data."
       },
       {
         "level": "C1",
@@ -1244,9 +1345,10 @@
           "a": "Subject-verb disagreement.",
           "b": "Incorrect verb tense.",
           "c": "Incorrect use of pronoun.",
-          "d": "Neither' should be followed by 'nor'."
+          "d": "'Neither' should be followed by 'nor'."
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "The correct option is 'd' because the sentence structure is incorrect. 'Neither' should be followed by 'nor' instead of 'or.'"
       },
       {
         "level": "C1",
@@ -1257,7 +1359,8 @@
           "c": "limited",
           "d": "insufficient"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Extensive' research refers to thorough, wide-ranging research, which is essential for making informed decisions. The other options imply research that is limited or lacking."
       },
       {
         "level": "C1",
@@ -1268,7 +1371,8 @@
           "c": "shrewd",
           "d": "clueless"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Shrewd' is a synonym of 'astute,' meaning someone who is clever, perceptive, and has good judgment."
       },
       {
         "level": "C1",
@@ -1279,7 +1383,8 @@
           "c": "in spite",
           "d": "regardless"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Due to' is the correct preposition to use in this context to indicate that the success was a direct result of the innovative approach."
       },
       {
         "level": "C1",
@@ -1290,7 +1395,8 @@
           "c": "disinterest",
           "d": "indifference"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "The manager's decision was met with 'resistance' because the team disagreed with the decision. 'Enthusiasm' and 'support' would suggest agreement, while 'disinterest' and 'indifference' imply apathy."
       },
       {
         "level": "C1",
@@ -1301,7 +1407,8 @@
           "c": "incomplete",
           "d": "vague"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Thorough' is the most suitable adjective to describe an analysis that is comprehensive and in-depth. The other options suggest a lack of detail or clarity."
       },
       {
         "level": "C1",
@@ -1312,7 +1419,8 @@
           "c": "negligent",
           "d": "reluctant"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Diligent' is the correct adjective to describe someone who is hardworking and attentive in their work. The other options imply a lack of effort or commitment."
       },
       {
         "level": "C1",
@@ -1323,7 +1431,8 @@
           "c": "delay",
           "d": "cancel"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Discuss' is the correct verb to use when referring to a meeting about the new policy. The other options suggest avoiding or postponing the discussion."
       },
       {
         "level": "C1",
@@ -1334,7 +1443,8 @@
           "c": "Verb tense inconsistency.",
           "d": "Incorrect verb form."
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "The sentence contains an incorrect verb form. 'Doesn't' is an auxiliary verb for the present tense and should be followed by the base form of the verb ('know'), not 'knows.'"
       },
       {
         "level": "C1",
@@ -1345,7 +1455,8 @@
           "c": "diminish",
           "d": "reduce"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Improve' is the correct verb to describe the positive impact the company's new policy is expected to have on employee morale."
       },
       {
         "level": "C1",
@@ -1356,7 +1467,8 @@
           "c": "durability",
           "d": "all of the above"
         },
-        "correct_option": "d"
+        "correct_option": "d",
+        "explanation": "'All of the above' is the correct option because the product's high rating is attributed to its quality, affordability, and durability."
       },
       {
         "level": "C1",
@@ -1367,7 +1479,8 @@
           "c": "support",
           "d": "indifference"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Resistance' is the correct option because the staff disagreed with the manager's decision, showing opposition."
       },
       {
         "level": "B2",
