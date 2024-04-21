@@ -10,7 +10,7 @@ export default async function Home() {
 
   return (
     <div className="max-w-5xl mx-auto p-5 md:p-10">
-      <Header />
+      <Header totalQuestions={data.quiz.questions.length} />
       <QuestionContainer data={data} />
     </div>
   )

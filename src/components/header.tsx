@@ -1,7 +1,11 @@
 import { MessageCircleQuestion } from 'lucide-react'
 import { ToggleTheme } from './toggleTheme'
 
-export const Header = () => {
+type HeaderProps = {
+  totalQuestions: number
+}
+
+export const Header = ({ totalQuestions }: HeaderProps) => {
   return (
     <>
       <header className="py-4  mb-8">
@@ -13,7 +17,7 @@ export const Header = () => {
           <ToggleTheme />
         </div>
         <small className="text-sm font-medium leading-none text-muted-foreground">
-          All questions were created with chatGPT
+          All questions were created with chatGPT ({totalQuestions} questions)
         </small>
       </header>
     </>
