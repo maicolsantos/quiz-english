@@ -71,7 +71,13 @@ export const Options = ({
           })}
           onClick={() => setCheckAnswerClicked(true)}
         >
-          Check the answer
+          {!checkAnswerClicked && 'Check the answer'}
+          {checkAnswerClicked && (
+            <>
+              {!isCorrect && 'Wrong answer'}
+              {isCorrect && 'Correct answer'}
+            </>
+          )}
         </Button>
         {checkAnswerClicked && (
           <Button variant="secondary" className="w-full" onClick={handleNext}>
