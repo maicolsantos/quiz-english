@@ -1,7 +1,9 @@
 'use client'
 import type { Options as OptionsType } from '@/@types/quiz'
 import { cn } from '@/lib/utils'
+import { Info } from 'lucide-react'
 import { useState } from 'react'
+import { Alert, AlertDescription, AlertTitle } from './ui/alert'
 import { Button } from './ui/button'
 import { Label } from './ui/label'
 import { RadioGroup, RadioGroupItem } from './ui/radio-group'
@@ -9,12 +11,14 @@ import { RadioGroup, RadioGroupItem } from './ui/radio-group'
 type OptionsProps = {
   options: OptionsType
   correctOption: string
+  explanation: string
   handleNextQuestion: () => void
 }
 
 export const Options = ({
   options,
   correctOption,
+  explanation,
   handleNextQuestion,
 }: OptionsProps) => {
   const [checkAnswerClicked, setCheckAnswerClicked] = useState(false)
@@ -59,6 +63,13 @@ export const Options = ({
           </div>
         ))}
       </RadioGroup>
+      {checkAnswerClicked && explanation && (
+        <Alert>
+          <Info className="h-4 w-4" />
+          <AlertTitle>Heads up!</AlertTitle>
+          <AlertDescription>{explanation}</AlertDescription>
+        </Alert>
+      )}
       <div className="w-full flex flex-col gap-6 mt-8">
         <Button
           variant="secondary"

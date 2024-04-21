@@ -6,6 +6,7 @@ export interface Question {
   question: string
   options: Options
   correct_option: string
+  explanation?: string
 }
 
 export interface Quiz {

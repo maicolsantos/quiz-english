@@ -15,7 +15,8 @@
           "c": "gain",
           "d": "earn"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Gain' is the most appropriate verb to use in the context of acquiring work experience. It conveys the idea of building or increasing one's knowledge and experience in a particular area."
       },
       {
         "level": "B2",
@@ -26,7 +27,8 @@
           "c": "consider",
           "d": "forget"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Consider' is a synonym of 'contemplate,' meaning to think about something carefully or reflect on a matter."
       },
       {
         "level": "B2",
@@ -37,7 +39,8 @@
           "c": "on",
           "d": "at"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Looking forward to' is a common phrase that requires the preposition 'to' followed by a gerund (hearing)."
       },
       {
         "level": "B2",
@@ -48,7 +51,8 @@
           "c": "useless",
           "d": "insignificant"
         },
-        "correct_option": "b"
+        "correct_option": "b",
+        "explanation": "'Vital' is a synonym of 'essential,' meaning something that is extremely important or necessary."
       },
       {
         "level": "B2",
@@ -59,7 +63,8 @@
           "c": "The sentence uses incorrect tense.",
           "d": "The sentence contains a run-on structure."
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "The sentence contains incorrect tense usage. 'She has been to Paris last year' mixes present perfect ('has been') with a specific past time ('last year'). It should be either 'She was in Paris last year' (past simple) or 'She has been to Paris' (present perfect)."
       },
       {
         "level": "B2",
@@ -70,7 +75,8 @@
           "c": "odorless",
           "d": "unpleasant"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Intense' is the best choice in the context of describing the strong scent of fresh flowers."
       },
       {
         "level": "B2",
@@ -81,7 +87,8 @@
           "c": "tenacious",
           "d": "sporadic"
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'Tenacious' is a synonym of 'persistent,' meaning someone or something that is determined, steadfast, and not giving up easily."
       },
       {
         "level": "B2",
@@ -92,7 +99,8 @@
           "c": "seasonal",
           "d": "volunteer"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Permanent' is the most suitable option in the context of a long-term job offer after an internship."
       },
       {
         "level": "B2",
@@ -103,7 +111,8 @@
           "c": "I'm afraid I have to disagree.",
           "d": "That's exactly what I was thinking."
         },
-        "correct_option": "c"
+        "correct_option": "c",
+        "explanation": "'I'm afraid I have to disagree' is a polite way to express a differing opinion without being confrontational."
       },
       {
         "level": "B2",
@@ -114,7 +123,8 @@
           "c": "dancing",
           "d": "playing instruments"
         },
-        "correct_option": "a"
+        "correct_option": "a",
+        "explanation": "'Painting' is the correct option in the context of describing her extraordinary talent, which refers to the artistic ability to create works of art."
       },
       {
         "level": "B2",
@@ -1358,6 +1368,246 @@
           "d": "indifference"
         },
         "correct_option": "b"
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "She called me when she got home.",
+          "b": "He had already left when I arrived.",
+          "c": "We went to the park yesterday.",
+          "d": "They ate dinner at the restaurant."
+        },
+        "correct_option": "b",
+        "explanation": "The past perfect tense (option b) describes an action that happened before another action in the past. The sentence indicates that he left before I arrived."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "After they had finished their homework, they watched TV.",
+          "b": "He had already eaten when I offered him dinner.",
+          "c": "We traveled to Spain last summer.",
+          "d": "She had studied English for years."
+        },
+        "correct_option": "c",
+        "explanation": "The past simple tense (option c) describes a completed action in the past. The sentence describes a trip taken last summer."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "They had never seen the movie before last night.",
+          "b": "She took her dog for a walk.",
+          "c": "We danced at the party.",
+          "d": "He played tennis with his friends."
+        },
+        "correct_option": "a",
+        "explanation": "The past perfect tense (option a) is used to describe an action that happened before a specific time in the past. The sentence indicates that they had never seen the movie before last night."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "She studied hard before the exam.",
+          "b": "They had lived in Paris for years before moving back.",
+          "c": "He had written a book before starting his career.",
+          "d": "We had already left when you called."
+        },
+        "correct_option": "a",
+        "explanation": "The past simple tense (option a) describes a completed action in the past. The sentence describes the act of studying hard before an exam."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "We had been to the museum before it closed.",
+          "b": "He called me last night.",
+          "c": "She cooked dinner for her family.",
+          "d": "They watched the sunrise."
+        },
+        "correct_option": "a",
+        "explanation": "The past perfect tense (option a) describes an action that happened before another action in the past. The sentence indicates that they had been to the museum before it closed."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "He watched the game on TV.",
+          "b": "They had left the room when she arrived.",
+          "c": "We had finished dinner before 9 PM.",
+          "d": "She had not seen him in years."
+        },
+        "correct_option": "a",
+        "explanation": "The past simple tense (option a) describes a completed action in the past. The sentence indicates that he watched the game on TV."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "They visited their friends on Saturday.",
+          "b": "She had never seen a real-life elephant before the zoo visit.",
+          "c": "He jogged every morning.",
+          "d": "We went shopping at the mall."
+        },
+        "correct_option": "b",
+        "explanation": "The past perfect tense (option b) describes an action that happened before a specific event in the past. The sentence indicates that she had never seen an elephant before the visit to the zoo."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "They had eaten dinner before we arrived.",
+          "b": "He went to the store to buy groceries.",
+          "c": "We had decided on the destination before leaving.",
+          "d": "She had found her keys under the couch."
+        },
+        "correct_option": "b",
+        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he went to the store to buy groceries."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "She bought a new car last month.",
+          "b": "They had planned a trip before the pandemic hit.",
+          "c": "He took a vacation last year.",
+          "d": "We played games at the party."
+        },
+        "correct_option": "b",
+        "explanation": "The past perfect tense (option b) describes an action that happened before a specific event in the past. The sentence indicates that they had planned a trip before the pandemic hit."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "He had taken the test before his friends arrived.",
+          "b": "She went to bed early last night.",
+          "c": "They had visited Italy before their wedding.",
+          "d": "We had already finished the book."
+        },
+        "correct_option": "b",
+        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that she went to bed early last night."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "She finished her assignment on time.",
+          "b": "They had already left the house when we arrived.",
+          "c": "He played guitar at the party.",
+          "d": "We walked to the store yesterday."
+        },
+        "correct_option": "b",
+        "explanation": "The past perfect tense (option b) describes an action that happened before another action in the past. The sentence indicates that they had already left the house before we arrived."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "She had been sick all week before seeing the doctor.",
+          "b": "They talked about the new project.",
+          "c": "We had gone to the concert last week.",
+          "d": "He had worked for that company for years."
+        },
+        "correct_option": "b",
+        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that they talked about the new project."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "He had never tried sushi before moving to Japan.",
+          "b": "She painted the room blue.",
+          "c": "We had dinner with friends last night.",
+          "d": "They played chess in the afternoon."
+        },
+        "correct_option": "a",
+        "explanation": "The past perfect tense (option a) describes an action that happened before another action in the past. The sentence indicates that he had never tried sushi before moving to Japan."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "He finished the book in one sitting.",
+          "b": "They had lived in the city before they moved to the countryside.",
+          "c": "She had written a letter to her friend.",
+          "d": "We had prepared for the meeting in advance."
+        },
+        "correct_option": "a",
+        "explanation": "The past simple tense (option a) describes a completed action in the past. The sentence indicates that he finished the book in one sitting."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "We walked along the beach at sunset.",
+          "b": "She had locked the door before leaving the house.",
+          "c": "They had a picnic in the park.",
+          "d": "He drove to work early in the morning."
+        },
+        "correct_option": "b",
+        "explanation": "The past perfect tense (option b) describes an action that happened before another action in the past. The sentence indicates that she had locked the door before leaving the house."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "They had gone hiking before it started raining.",
+          "b": "He bought a new phone last week.",
+          "c": "She had not traveled abroad before last summer.",
+          "d": "We had lived in France before moving to Canada."
+        },
+        "correct_option": "b",
+        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he bought a new phone last week."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "They had been friends since childhood.",
+          "b": "He watched the football match.",
+          "c": "She went to the gym in the evening.",
+          "d": "We visited the museum last Saturday."
+        },
+        "correct_option": "a",
+        "explanation": "The past perfect tense (option a) describes an action that began in the past and continued up to a specific point in the past. The sentence indicates that they had been friends since childhood."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "She had made a cake for her brother's birthday.",
+          "b": "He received a promotion at work last year.",
+          "c": "They had never been to that restaurant before.",
+          "d": "We had decided to go on vacation in the winter."
+        },
+        "correct_option": "b",
+        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he received a promotion at work last year."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past perfect tense?",
+        "options": {
+          "a": "We played tennis at the park.",
+          "b": "He cooked dinner for his family.",
+          "c": "She had studied Spanish for two years.",
+          "d": "They traveled to Italy last summer."
+        },
+        "correct_option": "c",
+        "explanation": "The past perfect tense (option c) describes an action that happened before another action in the past. The sentence indicates that she had studied Spanish for two years."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is in the past simple tense?",
+        "options": {
+          "a": "They had been friends for many years.",
+          "b": "He wrote a poem for his partner.",
+          "c": "She had moved out of her apartment before starting her new job.",
+          "d": "We had bought the tickets before the concert."
+        },
+        "correct_option": "b",
+        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he wrote a poem for his partner."
       }
     ]
   }

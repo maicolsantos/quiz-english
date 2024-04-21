@@ -42,6 +42,7 @@ export const QuestionContainer = ({ data }: QuestionContainerProps) => {
           <Options
             options={data.quiz.questions[questionItem].options}
             correctOption={data.quiz.questions[questionItem].correct_option}
+            explanation={data.quiz.questions[questionItem].explanation || ''}
             handleNextQuestion={getRandomQuestion}
           />
         </>
