@@ -1721,6 +1721,726 @@
         },
         "correct_option": "b",
         "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he wrote a poem for his partner."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence is correctly written in the past continuous tense?",
+        "options": {
+          "a": "I was seeing the movie yesterday.",
+          "b": "I have been seeing the movie yesterday.",
+          "c": "I was watching the movie yesterday.",
+          "d": "I am watching the movie yesterday."
+        },
+        "correct_option": "c",
+        "explanation": "The correct past continuous structure is 'was/were + -ing form'. In this case, 'was watching the movie yesterday' is the correct form."
+      },
+      {
+        "level": "C1",
+        "question": "What were you doing when the alarm went off?",
+        "options": {
+          "a": "I was reading a book.",
+          "b": "I read a book.",
+          "c": "I have read a book.",
+          "d": "I am reading a book."
+        },
+        "correct_option": "a",
+        "explanation": "'I was reading a book' is the correct option because it uses the past continuous tense to describe an action in progress when another action occurred."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correctly written past continuous sentence.",
+        "options": {
+          "a": "He has been working on the project.",
+          "b": "He was working on the project.",
+          "c": "He will be working on the project.",
+          "d": "He is working on the project."
+        },
+        "correct_option": "b",
+        "explanation": "The correct past continuous form is 'was/were + -ing form'. 'He was working on the project' is the correct form to describe an action in progress in the past."
+      },
+      {
+        "level": "C1",
+        "question": "Select the sentence that uses the past continuous tense correctly:",
+        "options": {
+          "a": "They were having a meeting while I was writing the report.",
+          "b": "They have been having a meeting while I was writing the report.",
+          "c": "They had a meeting while I write the report.",
+          "d": "They are having a meeting while I was writing the report."
+        },
+        "correct_option": "a",
+        "explanation": "'They were having a meeting while I was writing the report' correctly uses the past continuous tense for actions happening simultaneously in the past."
+      },
+      {
+        "level": "B2",
+        "question": "Which sentence correctly uses the past continuous tense?",
+        "options": {
+          "a": "I was learning French since last year.",
+          "b": "I was learning French for two hours yesterday.",
+          "c": "I learned French for two hours yesterday.",
+          "d": "I have been learning French for two hours yesterday."
+        },
+        "correct_option": "b",
+        "explanation": "'I was learning French for two hours yesterday' uses the past continuous tense correctly to describe an action that was in progress at a specific time in the past."
+      },
+      {
+        "level": "C1",
+        "question": "When I arrived at the party, she ____ the piano beautifully.",
+        "options": {
+          "a": "was playing",
+          "b": "played",
+          "c": "is playing",
+          "d": "had played"
+        },
+        "correct_option": "a",
+        "explanation": "'Was playing' is the correct past continuous form to describe an action in progress when another action occurred."
+      },
+      {
+        "level": "B2",
+        "question": "Identify the correct past continuous sentence.",
+        "options": {
+          "a": "He was always visiting his grandparents on weekends.",
+          "b": "He was visiting his grandparents on weekends.",
+          "c": "He had visited his grandparents on weekends.",
+          "d": "He is visiting his grandparents on weekends."
+        },
+        "correct_option": "b",
+        "explanation": "The past continuous structure is 'was/were + -ing form'. In this case, 'He was visiting his grandparents on weekends' correctly describes a past action in progress."
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correctly formed past continuous sentence:",
+        "options": {
+          "a": "I am working on the report when he arrived.",
+          "b": "I was working on the report when he arrived.",
+          "c": "I have been working on the report when he arrived.",
+          "d": "I worked on the report when he arrived."
+        },
+        "correct_option": "b",
+        "explanation": "'I was working on the report when he arrived' uses the past continuous to describe an ongoing action that was interrupted by another event."
+      },
+      {
+        "level": "B2",
+        "question": "Which of the following sentences is an example of the past continuous tense?",
+        "options": {
+          "a": "She will be singing at the concert.",
+          "b": "She sang at the concert.",
+          "c": "She was singing at the concert.",
+          "d": "She sings at the concert."
+        },
+        "correct_option": "c",
+        "explanation": "The past continuous structure is 'was/were + -ing form'. In this case, 'She was singing at the concert' is the correct option."
+      },
+      {
+        "level": "C1",
+        "question": "Which sentence demonstrates a past continuous action in combination with a simple past event?",
+        "options": {
+          "a": "While I was reading a book, she was painting a picture.",
+          "b": "While I read a book, she painted a picture.",
+          "c": "While I was reading a book, she painted a picture.",
+          "d": "While I am reading a book, she painted a picture."
+        },
+        "correct_option": "c",
+        "explanation": "'While I was reading a book, she painted a picture' uses past continuous for an ongoing action and simple past for an event that interrupted the ongoing action."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct past continuous sentence.",
+        "options": {
+          "a": "She was sang beautifully last night.",
+          "b": "She was singing beautifully last night.",
+          "c": "She sang beautifully last night.",
+          "d": "She is singing beautifully last night."
+        },
+        "correct_option": "b",
+        "explanation": "'She was singing beautifully last night' is the correct past continuous form to describe an ongoing action at a specific time in the past."
+      },
+      {
+        "level": "C1",
+        "question": "Select the sentence that uses the past continuous tense correctly:",
+        "options": {
+          "a": "By the time I finished the book, he will be leaving.",
+          "b": "By the time I finished the book, he was leaving.",
+          "c": "By the time I finished the book, he left.",
+          "d": "By the time I finished the book, he is leaving."
+        },
+        "correct_option": "b",
+        "explanation": "'By the time I finished the book, he was leaving' uses the past continuous to describe an ongoing action in the past that was ending as another action was completed."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correctly written past continuous sentence.",
+        "options": {
+          "a": "She was talking to her friend when the accident happened.",
+          "b": "She talked to her friend when the accident happened.",
+          "c": "She had talked to her friend when the accident happened.",
+          "d": "She is talking to her friend when the accident happened."
+        },
+        "correct_option": "a",
+        "explanation": "'She was talking to her friend when the accident happened' uses the past continuous for an action in progress when another action occurred."
+      },
+      {
+        "level": "C1",
+        "question": "Which sentence correctly uses the past continuous to describe simultaneous actions?",
+        "options": {
+          "a": "They were watching TV, and I cooked dinner.",
+          "b": "They watched TV, and I was cooking dinner.",
+          "c": "They were watching TV, and I was cooking dinner.",
+          "d": "They watch TV, and I cooked dinner."
+        },
+        "correct_option": "c",
+        "explanation": "'They were watching TV, and I was cooking dinner' correctly uses past continuous to describe two actions happening simultaneously in the past."
+      },
+      {
+        "level": "B2",
+        "question": "Identify the sentence that uses the past continuous correctly:",
+        "options": {
+          "a": "He was work hard when I called him.",
+          "b": "He was working hard when I called him.",
+          "c": "He worked hard when I called him.",
+          "d": "He has worked hard when I called him."
+        },
+        "correct_option": "b",
+        "explanation": "'He was working hard when I called him' correctly uses the past continuous to describe an action in progress at the time another action occurred."
+      },
+      {
+        "level": "C1",
+        "question": "Which sentence correctly combines the past continuous with the past simple?",
+        "options": {
+          "a": "While he worked on his computer, I was making dinner.",
+          "b": "While he was working on his computer, I made dinner.",
+          "c": "While he worked on his computer, I made dinner.",
+          "d": "While he worked on his computer, I am making dinner."
+        },
+        "correct_option": "b",
+        "explanation": "'While he was working on his computer, I made dinner' uses the past continuous to describe an ongoing action in progress, while the past simple is used for the action that occurred."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct past continuous sentence:",
+        "options": {
+          "a": "I was cooking when the phone rang.",
+          "b": "I cooked when the phone rang.",
+          "c": "I have been cooking when the phone rang.",
+          "d": "I am cooking when the phone rang."
+        },
+        "correct_option": "a",
+        "explanation": "'I was cooking when the phone rang' correctly uses the past continuous to describe an ongoing action in progress when another action occurred."
+      },
+      {
+        "level": "C1",
+        "question": "Which sentence correctly combines past continuous and past simple?",
+        "options": {
+          "a": "By the time I got there, the match had been already over.",
+          "b": "By the time I got there, the match was just starting.",
+          "c": "By the time I got there, the match was already going on.",
+          "d": "By the time I got there, the match is just starting."
+        },
+        "correct_option": "c",
+        "explanation": "'By the time I got there, the match was already going on' uses past continuous for an ongoing action in progress at the time another event occurred."
+      },
+      {
+        "level": "B2",
+        "question": "Which of the following sentences is an example of past continuous tense?",
+        "options": {
+          "a": "I was reading a book when the power went out.",
+          "b": "I read a book when the power went out.",
+          "c": "I have read a book when the power went out.",
+          "d": "I will read a book when the power went out."
+        },
+        "correct_option": "a",
+        "explanation": "'I was reading a book when the power went out' uses the past continuous to describe an action in progress when another action occurred."
+      },
+      {
+        "level": "C1",
+        "question": "Which of the following sentences correctly uses past continuous for an ongoing action in the past?",
+        "options": {
+          "a": "When I saw them, they were arguing.",
+          "b": "When I see them, they argue.",
+          "c": "When I had seen them, they argued.",
+          "d": "When I saw them, they argued."
+        },
+        "correct_option": "a",
+        "explanation": "'When I saw them, they were arguing' uses past continuous for an action in progress when another action occurred."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the appropriate verb to complete the sentence: 'After the accident, she _____ surgery.'",
+        "options": {
+          "a": "did",
+          "b": "made",
+          "c": "got",
+          "d": "had"
+        },
+        "correct_option": "d",
+        "explanation": "'Had surgery' is the correct expression using the delexical verb 'had.'"
+      },
+      {
+        "level": "B2",
+        "question": "Which option correctly completes the sentence? 'She _____ an argument with her friend.'",
+        "options": {
+          "a": "got",
+          "b": "made",
+          "c": "took",
+          "d": "had"
+        },
+        "correct_option": "d",
+        "explanation": "'Had an argument' is the correct expression using the delexical verb 'had.'"
+      },
+      {
+        "level": "B2",
+        "question": "Fill in the blank: 'He _____ a mistake in his calculations.'",
+        "options": {
+          "a": "got",
+          "b": "had",
+          "c": "made",
+          "d": "took"
+        },
+        "correct_option": "c",
+        "explanation": "'Made a mistake' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct verb: 'She _____ the bus to work every morning.'",
+        "options": {
+          "a": "got",
+          "b": "took",
+          "c": "had",
+          "d": "made"
+        },
+        "correct_option": "b",
+        "explanation": "'Took the bus' is the correct expression using the delexical verb 'took.'"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'They _____ a decision to move abroad.'",
+        "options": {
+          "a": "did",
+          "b": "made",
+          "c": "got",
+          "d": "took"
+        },
+        "correct_option": "b",
+        "explanation": "'Made a decision' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "C1",
+        "question": "Which option completes the sentence correctly? 'The company _____ a loss last quarter.'",
+        "options": {
+          "a": "took",
+          "b": "made",
+          "c": "got",
+          "d": "had"
+        },
+        "correct_option": "b",
+        "explanation": "'Made a loss' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct verb: 'She _____ the opportunity to work abroad.'",
+        "options": {
+          "a": "got",
+          "b": "made",
+          "c": "had",
+          "d": "took"
+        },
+        "correct_option": "d",
+        "explanation": "'Took the opportunity' is the correct expression using the delexical verb 'took.'"
+      },
+      {
+        "level": "C1",
+        "question": "Fill in the blank: 'He _____ a course in marketing to improve his skills.'",
+        "options": {
+          "a": "took",
+          "b": "did",
+          "c": "got",
+          "d": "had"
+        },
+        "correct_option": "b",
+        "explanation": "'Did a course' is the correct expression using the delexical verb 'did.'"
+      },
+      {
+        "level": "B2",
+        "question": "Which option completes the sentence correctly? 'She _____ a promise to help him.'",
+        "options": {
+          "a": "made",
+          "b": "did",
+          "c": "got",
+          "d": "took"
+        },
+        "correct_option": "a",
+        "explanation": "'Made a promise' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "B2",
+        "question": "Complete the sentence: 'He _____ his best to solve the problem.'",
+        "options": {
+          "a": "made",
+          "b": "did",
+          "c": "got",
+          "d": "had"
+        },
+        "correct_option": "b",
+        "explanation": "'Did his best' is the correct expression using the delexical verb 'did.'"
+      },
+      {
+        "level": "C1",
+        "question": "Which option completes the sentence correctly? 'She _____ charge of the situation.'",
+        "options": {
+          "a": "got",
+          "b": "took",
+          "c": "made",
+          "d": "had"
+        },
+        "correct_option": "b",
+        "explanation": "'Took charge' is the correct expression using the delexical verb 'took.'"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the appropriate verb: 'He _____ a huge amount of work this year.'",
+        "options": {
+          "a": "had",
+          "b": "did",
+          "c": "took",
+          "d": "made"
+        },
+        "correct_option": "b",
+        "explanation": "'Did a huge amount of work' is the correct expression using the delexical verb 'did.'"
+      },
+      {
+        "level": "C1",
+        "question": "Which option completes the sentence correctly? 'She _____ a bad impression during the interview.'",
+        "options": {
+          "a": "did",
+          "b": "made",
+          "c": "got",
+          "d": "took"
+        },
+        "correct_option": "b",
+        "explanation": "'Made a bad impression' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct verb: 'He _____ a quick lunch before the meeting.'",
+        "options": {
+          "a": "did",
+          "b": "had",
+          "c": "took",
+          "d": "made"
+        },
+        "correct_option": "b",
+        "explanation": "'Had a quick lunch' is the correct expression using the delexical verb 'had.'"
+      },
+      {
+        "level": "C1",
+        "question": "Which option completes the sentence correctly? 'The lawyer _____ a strong case for her client.'",
+        "options": {
+          "a": "made",
+          "b": "did",
+          "c": "got",
+          "d": "took"
+        },
+        "correct_option": "a",
+        "explanation": "'Made a strong case' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct verb: 'She _____ an attempt to fix the issue.'",
+        "options": {
+          "a": "had",
+          "b": "did",
+          "c": "made",
+          "d": "took"
+        },
+        "correct_option": "b",
+        "explanation": "'Did an attempt' is the correct expression using the delexical verb 'did.'"
+      },
+      {
+        "level": "C1",
+        "question": "Complete the sentence: 'The manager _____ an effort to improve the team's performance.'",
+        "options": {
+          "a": "got",
+          "b": "made",
+          "c": "took",
+          "d": "had"
+        },
+        "correct_option": "b",
+        "explanation": "'Made an effort' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct verb: 'She _____ a phone call to the customer service.'",
+        "options": {
+          "a": "got",
+          "b": "took",
+          "c": "made",
+          "d": "had"
+        },
+        "correct_option": "c",
+        "explanation": "'Made a phone call' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "C1",
+        "question": "Which option completes the sentence correctly? 'They _____ a decision to hire more staff.'",
+        "options": {
+          "a": "got",
+          "b": "made",
+          "c": "took",
+          "d": "did"
+        },
+        "correct_option": "b",
+        "explanation": "'Made a decision' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct verb: 'He _____ a mistake by trusting them.'",
+        "options": {
+          "a": "did",
+          "b": "took",
+          "c": "made",
+          "d": "got"
+        },
+        "correct_option": "c",
+        "explanation": "'Made a mistake' is the correct expression using the delexical verb 'made.'"
+      },
+      {
+        "level": "B2",
+        "question": "The company __________ (announce) its new product launch last week.",
+        "options": {
+          "a": "announced",
+          "b": "was announced",
+          "c": "is announced",
+          "d": "will announce"
+        },
+        "correct_option": "a",
+        "explanation": "The sentence is in the active voice and past tense, so the correct option is 'announced.'"
+      },
+      {
+        "level": "B2",
+        "question": "The project __________ (complete) by the end of the week.",
+        "options": {
+          "a": "completed",
+          "b": "was completed",
+          "c": "will be completed",
+          "d": "is completed"
+        },
+        "correct_option": "c",
+        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be completed.'"
+      },
+      {
+        "level": "C1",
+        "question": "The book __________ (write) by an unknown author.",
+        "options": {
+          "a": "is written",
+          "b": "has written",
+          "c": "was written",
+          "d": "writes"
+        },
+        "correct_option": "c",
+        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was written.'"
+      },
+      {
+        "level": "B2",
+        "question": "The new policy __________ (implement) in the coming month.",
+        "options": {
+          "a": "was implemented",
+          "b": "will be implemented",
+          "c": "is implementing",
+          "d": "has implemented"
+        },
+        "correct_option": "b",
+        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be implemented.'"
+      },
+      {
+        "level": "C1",
+        "question": "She __________ (give) a raise for her excellent work.",
+        "options": {
+          "a": "is given",
+          "b": "was giving",
+          "c": "will be given",
+          "d": "gives"
+        },
+        "correct_option": "c",
+        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be given.'"
+      },
+      {
+        "level": "B2",
+        "question": "The meal __________ (prepare) by the chef for the dinner party.",
+        "options": {
+          "a": "is prepared",
+          "b": "was prepared",
+          "c": "will be prepared",
+          "d": "prepares"
+        },
+        "correct_option": "b",
+        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was prepared.'"
+      },
+      {
+        "level": "C1",
+        "question": "The documents __________ (not send) yet.",
+        "options": {
+          "a": "have not been sent",
+          "b": "did not send",
+          "c": "are not sending",
+          "d": "are not sent"
+        },
+        "correct_option": "a",
+        "explanation": "The sentence is in passive voice and present perfect tense, so the correct option is 'have not been sent.'"
+      },
+      {
+        "level": "B2",
+        "question": "He __________ (blame) for the error by his colleagues.",
+        "options": {
+          "a": "blames",
+          "b": "was blamed",
+          "c": "is blamed",
+          "d": "will be blamed"
+        },
+        "correct_option": "b",
+        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was blamed.'"
+      },
+      {
+        "level": "C1",
+        "question": "The meeting __________ (postpone) due to unforeseen circumstances.",
+        "options": {
+          "a": "is postponed",
+          "b": "was postponed",
+          "c": "has been postponed",
+          "d": "is postponing"
+        },
+        "correct_option": "c",
+        "explanation": "The sentence is in passive voice and present perfect tense, so the correct option is 'has been postponed.'"
+      },
+      {
+        "level": "B2",
+        "question": "The office __________ (paint) next week.",
+        "options": {
+          "a": "was painted",
+          "b": "will be painted",
+          "c": "is painted",
+          "d": "paints"
+        },
+        "correct_option": "b",
+        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be painted.'"
+      },
+      {
+        "level": "C1",
+        "question": "The decision __________ (make) after careful consideration.",
+        "options": {
+          "a": "is made",
+          "b": "will make",
+          "c": "was made",
+          "d": "has been made"
+        },
+        "correct_option": "d",
+        "explanation": "The sentence is in passive voice and present perfect tense, so the correct option is 'has been made.'"
+      },
+      {
+        "level": "B2",
+        "question": "The team __________ (award) for their outstanding performance.",
+        "options": {
+          "a": "will be awarded",
+          "b": "is awarded",
+          "c": "awarded",
+          "d": "has awarded"
+        },
+        "correct_option": "a",
+        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be awarded.'"
+      },
+      {
+        "level": "C1",
+        "question": "The evidence __________ (destroy) before the investigation could begin.",
+        "options": {
+          "a": "destroyed",
+          "b": "was destroyed",
+          "c": "is destroyed",
+          "d": "has destroyed"
+        },
+        "correct_option": "b",
+        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was destroyed.'"
+      },
+      {
+        "level": "B2",
+        "question": "The patient __________ (treat) by the specialist.",
+        "options": {
+          "a": "will be treated",
+          "b": "is treated",
+          "c": "treated",
+          "d": "was treating"
+        },
+        "correct_option": "b",
+        "explanation": "The sentence is in passive voice and present tense, so the correct option is 'is treated.'"
+      },
+      {
+        "level": "C1",
+        "question": "The law __________ (enforce) to prevent such violations.",
+        "options": {
+          "a": "was enforced",
+          "b": "is enforced",
+          "c": "will enforce",
+          "d": "has been enforced"
+        },
+        "correct_option": "b",
+        "explanation": "The sentence is in passive voice and present tense, so the correct option is 'is enforced.'"
+      },
+      {
+        "level": "B2",
+        "question": "The movie __________ (release) next month.",
+        "options": {
+          "a": "released",
+          "b": "will release",
+          "c": "releases",
+          "d": "will be released"
+        },
+        "correct_option": "d",
+        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be released.'"
+      },
+      {
+        "level": "C1",
+        "question": "The plan __________ (approve) after much debate.",
+        "options": {
+          "a": "was approved",
+          "b": "approved",
+          "c": "approves",
+          "d": "has approved"
+        },
+        "correct_option": "a",
+        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was approved.'"
+      },
+      {
+        "level": "B2",
+        "question": "The message __________ (send) to all employees.",
+        "options": {
+          "a": "was sent",
+          "b": "sends",
+          "c": "is sending",
+          "d": "is sent"
+        },
+        "correct_option": "a",
+        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was sent.'"
+      },
+      {
+        "level": "C1",
+        "question": "The building __________ (construct) by a renowned architect.",
+        "options": {
+          "a": "was constructed",
+          "b": "constructs",
+          "c": "is constructing",
+          "d": "construct"
+        },
+        "correct_option": "a",
+        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was constructed.'"
+      },
+      {
+        "level": "B2",
+        "question": "The book __________ (publish) next year.",
+        "options": {
+          "a": "will be published",
+          "b": "published",
+          "c": "publishing",
+          "d": "is published"
+        },
+        "correct_option": "a",
+        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be published.'"
       }
     ]
   }
