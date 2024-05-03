@@ -1,6 +1,8 @@
 'use client'
 import type { Options as OptionsType } from '@/@types/quiz'
 import { cn } from '@/lib/utils'
+import { useCurrentIndexQuestion } from '@/store/useCurrentIndexQuestion'
+import { useScore } from '@/store/useScore'
 import { Info } from 'lucide-react'
 import { useState } from 'react'
 import { Alert, AlertDescription, AlertTitle } from './ui/alert'
@@ -21,6 +23,8 @@ export const Options = ({
   explanation,
   handleNextQuestion,
 }: OptionsProps) => {
+  const { setCorrectAnswers, setWrongAnswers } = useScore()
+  const { currentIndexQuestion } = useCurrentIndexQuestion()
   const [checkAnswerClicked, setCheckAnswerClicked] = useState(false)
   const [optionSelected, setOptionSelected] = useState('')
   const isCorrect = optionSelected === correctOption
@@ -82,6 +86,10 @@ export const Options = ({
           })}
           onClick={() => {
             !checkAnswerClicked ? setCheckAnswerClicked(true) : handleNext()
+
+            isCorrect
+              ? setCorrectAnswers(currentIndexQuestion)
+              : setWrongAnswers(currentIndexQuestion)
           }}
         >
           {!checkAnswerClicked ? 'Check the answer' : 'Next question'}

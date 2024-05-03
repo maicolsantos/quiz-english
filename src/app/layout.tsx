@@ -1,3 +1,4 @@
+import { Toaster } from '@/components/ui/sonner'
 import { cn } from '@/lib/utils'
 import { GoogleAnalytics } from '@next/third-parties/google'
 import type { Metadata } from 'next'
@@ -29,6 +30,7 @@ export default function RootLayout({
         )}
       >
         <Providers>{children}</Providers>
+        <Toaster richColors position="top-right" />
       </body>
       <GoogleAnalytics gaId="G-1XML94EV9R" />
     </html>

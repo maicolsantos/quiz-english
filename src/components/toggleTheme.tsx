@@ -3,6 +3,7 @@ import { Loader2, Moon, SunMoon } from 'lucide-react'
 import { useTheme } from 'next-themes'
 import { useEffect, useState } from 'react'
 import { Button } from './ui/button'
+import { DropdownMenuItem } from './ui/dropdown-menu'
 
 export const ToggleTheme = () => {
   const { setTheme, resolvedTheme } = useTheme()
@@ -20,15 +21,18 @@ export const ToggleTheme = () => {
 
   return (
     <>
-      {resolvedTheme === 'dark' ? (
-        <Button variant="outline" size="icon" onClick={() => setTheme('light')}>
-          <SunMoon />
-        </Button>
-      ) : (
-        <Button variant="outline" size="icon" onClick={() => setTheme('dark')}>
-          <Moon />
-        </Button>
-      )}
+      <DropdownMenuItem
+        onClick={() =>
+          resolvedTheme === 'dark' ? setTheme('light') : setTheme('dark')
+        }
+      >
+        {resolvedTheme === 'dark' ? (
+          <SunMoon className="mr-2 h-4 w-4" />
+        ) : (
+          <Moon className="mr-2 h-4 w-4" />
+        )}
+        <span>Dark mode</span>
+      </DropdownMenuItem>
     </>
   )
 }
