@@ -17,7 +17,7 @@ export const Header = ({ totalQuestions }: HeaderProps) => {
           <ToggleTheme />
         </div>
         <small className="text-sm font-medium leading-none text-muted-foreground">
-          All questions were created with chatGPT ({totalQuestions} questions)
+          All questions created with chatGPT ({totalQuestions} questions)
         </small>
       </header>
     </>

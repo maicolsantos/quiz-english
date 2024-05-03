@@ -80,21 +80,12 @@ export const Options = ({
             'bg-red-500 hover:bg-red-500 text-white':
               checkAnswerClicked && !isCorrect,
           })}
-          onClick={() => setCheckAnswerClicked(true)}
+          onClick={() => {
+            !checkAnswerClicked ? setCheckAnswerClicked(true) : handleNext()
+          }}
         >
-          {!checkAnswerClicked && 'Check the answer'}
-          {checkAnswerClicked && (
-            <>
-              {!isCorrect && 'Wrong answer'}
-              {isCorrect && 'Correct answer'}
-            </>
-          )}
+          {!checkAnswerClicked ? 'Check the answer' : 'Next question'}
         </Button>
-        {checkAnswerClicked && (
-          <Button variant="secondary" className="w-full" onClick={handleNext}>
-            Next question
-          </Button>
-        )}
       </div>
     </>
   )
