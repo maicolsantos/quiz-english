@@ -7,2440 +7,604 @@
     ],
     "questions": [
       {
-        "level": "B2",
-        "question": "Choose the correct word to complete the sentence: 'She decided to take a break from her studies to _______ some work experience.'",
+        "level": "C1",
+        "question": "She __________ (write) an excellent essay last week.",
         "options": {
-          "a": "acquire",
-          "b": "obtain",
-          "c": "gain",
-          "d": "earn"
-        },
-        "correct_option": "c",
-        "explanation": "'Gain' is the most appropriate verb to use in the context of acquiring work experience. It conveys the idea of building or increasing one's knowledge and experience in a particular area."
-      },
-      {
-        "level": "B2",
-        "question": "Which of the following is a synonym of 'contemplate'?",
-        "options": {
-          "a": "ignore",
-          "b": "disregard",
-          "c": "consider",
-          "d": "forget"
-        },
-        "correct_option": "c",
-        "explanation": "'Consider' is a synonym of 'contemplate,' meaning to think about something carefully or reflect on a matter."
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence with the correct preposition: 'I'm looking forward _______ hearing from you.'",
-        "options": {
-          "a": "for",
-          "b": "to",
-          "c": "on",
-          "d": "at"
-        },
-        "correct_option": "b",
-        "explanation": "'Looking forward to' is a common phrase that requires the preposition 'to' followed by a gerund (hearing)."
-      },
-      {
-        "level": "B2",
-        "question": "What is the synonym of 'essential'?",
-        "options": {
-          "a": "optional",
-          "b": "vital",
-          "c": "useless",
-          "d": "insignificant"
-        },
-        "correct_option": "b",
-        "explanation": "'Vital' is a synonym of 'essential,' meaning something that is extremely important or necessary."
-      },
-      {
-        "level": "B2",
-        "question": "Identify the correct sentence structure: 'She has been to Paris last year.'",
-        "options": {
-          "a": "The sentence is correct.",
-          "b": "The sentence has a subject-verb disagreement.",
-          "c": "The sentence uses incorrect tense.",
-          "d": "The sentence contains a run-on structure."
-        },
-        "correct_option": "c",
-        "explanation": "The sentence contains incorrect tense usage. 'She has been to Paris last year' mixes present perfect ('has been') with a specific past time ('last year'). It should be either 'She was in Paris last year' (past simple) or 'She has been to Paris' (present perfect)."
-      },
-      {
-        "level": "B2",
-        "question": "Which word best fits the following sentence: 'The room was filled with an _______ scent of fresh flowers.'",
-        "options": {
-          "a": "intense",
-          "b": "mild",
-          "c": "odorless",
-          "d": "unpleasant"
-        },
-        "correct_option": "a",
-        "explanation": "'Intense' is the best choice in the context of describing the strong scent of fresh flowers."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct synonym for 'persistent':",
-        "options": {
-          "a": "fleeting",
-          "b": "temporary",
-          "c": "tenacious",
-          "d": "sporadic"
-        },
-        "correct_option": "c",
-        "explanation": "'Tenacious' is a synonym of 'persistent,' meaning someone or something that is determined, steadfast, and not giving up easily."
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence: 'The company offered him a _____ job after his internship.'",
-        "options": {
-          "a": "permanent",
-          "b": "temp",
-          "c": "seasonal",
-          "d": "volunteer"
-        },
-        "correct_option": "a",
-        "explanation": "'Permanent' is the most suitable option in the context of a long-term job offer after an internship."
-      },
-      {
-        "level": "B2",
-        "question": "Which of the following phrases is used to express disagreement politely?",
-        "options": {
-          "a": "You're absolutely right.",
-          "b": "I couldn't agree more.",
-          "c": "I'm afraid I have to disagree.",
-          "d": "That's exactly what I was thinking."
-        },
-        "correct_option": "c",
-        "explanation": "'I'm afraid I have to disagree' is a polite way to express a differing opinion without being confrontational."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct answer: 'She was known for her extraordinary talent in ______.'",
-        "options": {
-          "a": "painting",
-          "b": "bake",
-          "c": "dancing",
-          "d": "playing instruments"
-        },
-        "correct_option": "a",
-        "explanation": "'Painting' is the correct option in the context of describing her extraordinary talent, which refers to the artistic ability to create works of art."
-      },
-      {
-        "level": "B2",
-        "question": "Fill in the blank: 'The room is well-lit because it has ______ windows.'",
-        "options": {
-          "a": "narrow",
-          "b": "large",
-          "c": "thick",
-          "d": "small"
-        },
-        "correct_option": "b",
-        "explanation": "'Large' is the correct option because it allows more natural light to enter the room, making it well-lit."
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence: 'The meeting has been postponed to ______ date.'",
-        "options": {
-          "a": "later",
-          "b": "last",
-          "c": "yesterday",
-          "d": "early"
-        },
-        "correct_option": "a",
-        "explanation": "'Later' is the correct option because it suggests the meeting has been rescheduled to a future date."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct answer: 'The athletes trained hard in preparation for the ______.'",
-        "options": {
-          "a": "competition",
-          "b": "holiday",
-          "c": "party",
-          "d": "gathering"
-        },
-        "correct_option": "a",
-        "explanation": "'Competition' is the correct option because it refers to an event where the athletes will participate and compete."
-      },
-      {
-        "level": "B2",
-        "question": "Identify the grammatical error in the sentence: 'I did not received your email.'",
-        "options": {
-          "a": "Incorrect use of verb tense.",
-          "b": "Incorrect verb form.",
-          "c": "Incorrect use of preposition.",
-          "d": "Incorrect use of noun."
-        },
-        "correct_option": "b",
-        "explanation": "'Incorrect verb form' is the correct choice because 'did not' should be followed by the base form of the verb ('receive'), not the past tense ('received')."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the appropriate word to complete the sentence: 'The government ______ new policies to address the issue.'",
-        "options": {
-          "a": "implemented",
-          "b": "created",
-          "c": "ignored",
-          "d": "rejected"
-        },
-        "correct_option": "a",
-        "explanation": "'Implemented' is the correct choice because it indicates the government put the new policies into action to address the issue."
-      },
-      {
-        "level": "B2",
-        "question": "Fill in the blank: 'She was ______ when she heard the good news.'",
-        "options": {
-          "a": "thrilled",
-          "b": "disappointed",
-          "c": "sad",
-          "d": "indifferent"
-        },
-        "correct_option": "a",
-        "explanation": "'Thrilled' is the correct choice because it means she was very excited and happy upon hearing the good news."
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence: 'The dog was ______ and couldn't walk properly.'",
-        "options": {
-          "a": "energetic",
-          "b": "limping",
-          "c": "sleeping",
-          "d": "running"
-        },
-        "correct_option": "b",
-        "explanation": "'Limping' is the correct choice because it means the dog was walking with difficulty due to an injury."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the synonym for 'arbitrary':",
-        "options": {
-          "a": "planned",
-          "b": "random",
-          "c": "controlled",
-          "d": "organized"
-        },
-        "correct_option": "b",
-        "explanation": "'Random' is the correct synonym for 'arbitrary' because it suggests a lack of planning or control."
-      },
-      {
-        "level": "B2",
-        "question": "Which of the following phrases is used to express uncertainty?",
-        "options": {
-          "a": "I'm not sure.",
-          "b": "I know it for sure.",
-          "c": "That's a fact.",
-          "d": "I'm confident."
-        },
-        "correct_option": "a",
-        "explanation": "'I'm not sure.' is the correct choice because it explicitly expresses uncertainty."
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence: 'The weather was ______ yesterday.'",
-        "options": {
-          "a": "sunny",
-          "b": "stormy",
-          "c": "cloudy",
-          "d": "rainy"
-        },
-        "correct_option": "b",
-        "explanation": "'Stormy' is the correct choice because it suggests there was severe weather with rain, wind, or other harsh conditions."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the synonym for 'convenient':",
-        "options": {
-          "a": "inconvenient",
-          "b": "bothersome",
-          "c": "troublesome",
-          "d": "accessible"
+          "a": "writes",
+          "b": "was writing",
+          "c": "has written",
+          "d": "wrote"
         },
         "correct_option": "d",
-        "explanation": "'Accessible' is the correct synonym for 'convenient' because it suggests ease of use or availability."
+        "explanation": "The action happened last week, so the correct form is 'wrote' in the past simple tense."
       },
       {
-        "level": "B2",
-        "question": "Fill in the blank: 'The restaurant is famous for its ______ service.'",
+        "level": "C1",
+        "question": "They __________ (not go) to the concert yesterday.",
         "options": {
-          "a": "excellent",
-          "b": "poor",
-          "c": "mediocre",
-          "d": "slow"
+          "a": "weren't going",
+          "b": "don't go",
+          "c": "haven't gone",
+          "d": "didn't go"
         },
-        "correct_option": "a",
-        "explanation": "'Excellent' is the correct choice because the restaurant is renowned for its high-quality service."
+        "correct_option": "d",
+        "explanation": "The action is negative and happened yesterday, so 'didn't go' is the correct form in the past simple tense."
       },
       {
-        "level": "B2",
-        "question": "Choose the correct option: 'He was ______ by the news.'",
+        "level": "C1",
+        "question": "He __________ (finish) his homework before dinner.",
         "options": {
-          "a": "excited",
-          "b": "dismayed",
-          "c": "neutral",
-          "d": "indifferent"
+          "a": "was finishing",
+          "b": "has finished",
+          "c": "finished",
+          "d": "finishes"
         },
-        "correct_option": "b",
-        "explanation": "'Dismayed' is the correct choice because it means he was upset or disappointed by the news."
+        "correct_option": "c",
+        "explanation": "The action happened before dinner, so the correct form is 'finished' in the past simple tense."
       },
       {
-        "level": "B2",
-        "question": "Complete the sentence: 'The party will take place ______ Saturday.'",
+        "level": "C1",
+        "question": "We __________ (see) a wonderful movie last night.",
         "options": {
-          "a": "in",
-          "b": "on",
-          "c": "at",
-          "d": "by"
+          "a": "were seeing",
+          "b": "seen",
+          "c": "saw",
+          "d": "see"
         },
-        "correct_option": "b",
-        "explanation": "'On' is the correct preposition for indicating the specific day the party will take place."
+        "correct_option": "c",
+        "explanation": "The action happened last night, so 'saw' is the correct form in the past simple tense."
       },
       {
-        "level": "B2",
-        "question": "Choose the correct answer: 'The project was delayed due to ______ circumstances.'",
+        "level": "C1",
+        "question": "The team __________ (win) the championship last year.",
         "options": {
-          "a": "unforeseen",
-          "b": "predictable",
-          "c": "expected",
-          "d": "known"
+          "a": "was winning",
+          "b": "wins",
+          "c": "won",
+          "d": "has won"
         },
-        "correct_option": "a",
-        "explanation": "'Unforeseen' is the correct choice because it suggests unexpected circumstances caused the project delay."
+        "correct_option": "c",
+        "explanation": "The action happened last year, so 'won' is the correct form in the past simple tense."
       },
       {
-        "level": "B2",
-        "question": "Fill in the blank: 'She ______ her presentation with confidence.'",
+        "level": "C1",
+        "question": "She __________ (not meet) him at the party.",
         "options": {
-          "a": "delivered",
+          "a": "wasn't meeting",
+          "b": "doesn't meet",
+          "c": "hasn't met",
+          "d": "didn't meet"
+        },
+        "correct_option": "d",
+        "explanation": "The action is negative and happened at the party, so 'didn't meet' is the correct form in the past simple tense."
+      },
+      {
+        "level": "C1",
+        "question": "I __________ (buy) a new car last month.",
+        "options": {
+          "a": "buys",
+          "b": "was buying",
+          "c": "bought",
+          "d": "has bought"
+        },
+        "correct_option": "c",
+        "explanation": "The action happened last month, so 'bought' is the correct form in the past simple tense."
+      },
+      {
+        "level": "C1",
+        "question": "You __________ (not tell) me about the meeting.",
+        "options": {
+          "a": "weren't telling",
+          "b": "don't tell",
+          "c": "haven't told",
+          "d": "didn't tell"
+        },
+        "correct_option": "d",
+        "explanation": "The action is negative and supposed to have happened already, so 'didn't tell' is the correct form in the past simple tense."
+      },
+      {
+        "level": "C1",
+        "question": "She __________ (arrive) late for the appointment.",
+        "options": {
+          "a": "arrives",
+          "b": "was arriving",
+          "c": "has arrived",
+          "d": "arrived"
+        },
+        "correct_option": "d",
+        "explanation": "The action happened already, so 'arrived' is the correct form in the past simple tense."
+      },
+      {
+        "level": "C1",
+        "question": "We __________ (decide) to move to a new city.",
+        "options": {
+          "a": "decides",
+          "b": "were deciding",
+          "c": "has decided",
+          "d": "decided"
+        },
+        "correct_option": "d",
+        "explanation": "The action has been done, so 'decided' is the correct form in the past simple tense."
+      },
+      {
+        "level": "C1",
+        "question": "While I __________ (read), the phone rang.",
+        "options": {
+          "a": "was reading",
           "b": "read",
-          "c": "listened to",
-          "d": "watched"
+          "c": "have read",
+          "d": "am reading"
         },
         "correct_option": "a",
-        "explanation": "'Delivered' is the correct choice because it means she gave her presentation confidently."
+        "explanation": "The action of reading was in progress when the phone rang, so 'was reading' is the correct form in the past continuous tense."
       },
       {
-        "level": "B2",
-        "question": "Choose the correct synonym for 'inevitable':",
+        "level": "C1",
+        "question": "They __________ (watch) TV when I arrived.",
         "options": {
-          "a": "avoidable",
-          "b": "unavoidable",
-          "c": "likely",
-          "d": "uncertain"
-        },
-        "correct_option": "b",
-        "explanation": "'Unavoidable' is the correct synonym for 'inevitable' as it means something that cannot be prevented."
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence: 'The singer's performance was ______ and received a standing ovation.'",
-        "options": {
-          "a": "mediocre",
-          "b": "amazing",
-          "c": "subpar",
-          "d": "average"
-        },
-        "correct_option": "b",
-        "explanation": "'Amazing' is the correct choice because the singer's performance was exceptional and well-received."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the appropriate option: 'The company is known for its ______ approach to customer service.'",
-        "options": {
-          "a": "innovative",
-          "b": "traditional",
-          "c": "outdated",
-          "d": "inefficient"
-        },
-        "correct_option": "a",
-        "explanation": "'Innovative' is the correct choice because it means the company adopts modern and creative methods in customer service."
-      },
-      {
-        "level": "B2",
-        "question": "Identify the grammatical error in the sentence: 'I can't hardly believe my eyes.'",
-        "options": {
-          "a": "Double negative.",
-          "b": "Incorrect use of pronoun.",
-          "c": "Subject-verb disagreement.",
-          "d": "Incorrect verb form."
-        },
-        "correct_option": "a",
-        "explanation": "'Double negative' is the correct choice because 'can't' and 'hardly' both negate the verb 'believe,' which creates a grammatical error."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct answer: 'The kids were excited to go to the ______.'",
-        "options": {
-          "a": "school",
-          "b": "library",
-          "c": "zoo",
-          "d": "museum"
+          "a": "watched",
+          "b": "have watched",
+          "c": "were watching",
+          "d": "are watching"
         },
         "correct_option": "c",
-        "explanation": "'Zoo' is the correct choice because kids are often excited to visit a zoo and see the animals."
+        "explanation": "The action of watching TV was ongoing when I arrived, so 'were watching' is the correct form in the past continuous tense."
       },
       {
-        "level": "B2",
-        "question": "Fill in the blank: 'The actor's performance was ______ by the critics.'",
+        "level": "C1",
+        "question": "He __________ (work) on his project all night.",
         "options": {
-          "a": "ignored",
-          "b": "praised",
-          "c": "dismissed",
-          "d": "criticized"
+          "a": "worked",
+          "b": "was working",
+          "c": "has worked",
+          "d": "is working"
         },
         "correct_option": "b",
-        "explanation": "'Praised' is the correct choice because it means the actor's performance was positively reviewed and appreciated by the critics."
+        "explanation": "The action of working was ongoing all night, so 'was working' is the correct form in the past continuous tense."
       },
       {
-        "level": "B2",
-        "question": "Choose the appropriate answer: 'The company is planning to ______ its operations.'",
+        "level": "C1",
+        "question": "I __________ (not listen) to music when you called.",
         "options": {
-          "a": "expand",
-          "b": "reduce",
-          "c": "stop",
-          "d": "suspend"
-        },
-        "correct_option": "a",
-        "explanation": "'Expand' is the correct choice because it suggests that the company plans to grow its operations."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct option: 'The ______ decision was to hire more staff.'",
-        "options": {
-          "a": "final",
-          "b": "indecisive",
-          "c": "interim",
-          "d": "initial"
-        },
-        "correct_option": "a",
-        "explanation": "'Final' is the correct choice because it indicates a firm decision to hire more staff."
-      },
-      {
-        "level": "B2",
-        "question": "Fill in the blank: 'She always makes an effort to ______ the office environment.'",
-        "options": {
-          "a": "improve",
-          "b": "damage",
-          "c": "disrupt",
-          "d": "ignore"
-        },
-        "correct_option": "a",
-        "explanation": "'Improve' is the correct choice because it suggests she strives to make the office environment better."
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence: 'The restaurant offers a ______ selection of international dishes.'",
-        "options": {
-          "a": "limited",
-          "b": "narrow",
-          "c": "wide",
-          "d": "sparse"
+          "a": "didn't listen",
+          "b": "haven't listened",
+          "c": "wasn't listening",
+          "d": "am not listening"
         },
         "correct_option": "c",
-        "explanation": "'Wide' is the correct choice because it suggests the restaurant offers a broad range of international dishes."
+        "explanation": "The action of not listening was ongoing when you called, so 'wasn't listening' is the correct form in the past continuous tense."
       },
       {
-        "level": "B2",
-        "question": "Choose the correct synonym for 'ambitious':",
-        "options": {
-          "a": "unambitious",
-          "b": "aspiring",
-          "c": "carefree",
-          "d": "modest"
-        },
-        "correct_option": "b",
-        "explanation": "'Aspiring' is the correct synonym for 'ambitious' as it suggests a desire to achieve or accomplish something significant."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the appropriate word to complete the sentence: 'The ______ changes improved the product significantly.'",
-        "options": {
-          "a": "minor",
-          "b": "major",
-          "c": "trivial",
-          "d": "detrimental"
-        },
-        "correct_option": "b",
-        "explanation": "'Major' is the correct choice because it suggests substantial changes that significantly improved the product."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct answer: 'The project was delayed due to ______ circumstances.'",
-        "options": {
-          "a": "unforeseen",
-          "b": "predictable",
-          "c": "expected",
-          "d": "known"
-        },
-        "correct_option": "a",
-        "explanation": "'Unforeseen' is the correct choice because it suggests unexpected circumstances caused the project delay."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'Neither the manager or the employees were satisfied with the outcome.'",
-        "options": {
-          "a": "The subject-verb agreement is incorrect.",
-          "b": "'Neither' should be followed by 'nor'.",
-          "c": "The verb tense is inconsistent.",
-          "d": "The sentence is in passive voice."
-        },
-        "correct_option": "b",
-        "explanation": "'Neither' should be followed by 'nor' instead of 'or' to maintain grammatical accuracy."
-      },
-      {
-        "level": "C1",
-        "question": "Read the following passage and answer the question: 'Many people think that technology is the enemy of culture, but the truth is that it can be a powerful ally. By providing access to diverse content, technology helps to preserve and share cultural heritage.' What is the author's main argument?",
-        "options": {
-          "a": "Technology harms cultural heritage.",
-          "b": "Technology can aid in the preservation and sharing of culture.",
-          "c": "Technology is irrelevant to cultural heritage.",
-          "d": "Cultural heritage should be protected from technology."
-        },
-        "correct_option": "b",
-        "explanation": "The author's main argument is that technology can aid in the preservation and sharing of culture by providing access to diverse content and helping to preserve cultural heritage."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the synonym for 'erudite':",
-        "options": {
-          "a": "ignorant",
-          "b": "knowledgeable",
-          "c": "unintelligent",
-          "d": "naive"
-        },
-        "correct_option": "b",
-        "explanation": "'Knowledgeable' is the correct synonym for 'erudite' because it describes someone who is well-educated and scholarly."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The decision was made ______ consulting the team.'",
-        "options": {
-          "a": "without",
-          "b": "after",
-          "c": "before",
-          "d": "upon"
-        },
-        "correct_option": "a",
-        "explanation": "'Without' is the correct choice because it indicates that the decision was made without consulting the team."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'lucid':",
-        "options": {
-          "a": "unclear",
-          "b": "opaque",
-          "c": "clear",
-          "d": "hazy"
-        },
-        "correct_option": "c",
-        "explanation": "'Clear' is the correct synonym for 'lucid' because it refers to something easily understood and transparent."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'I have never done nothing wrong.'",
-        "options": {
-          "a": "Incorrect use of double negative.",
-          "b": "Subject-verb disagreement.",
-          "c": "Incorrect use of pronoun.",
-          "d": "Verb tense inconsistency."
-        },
-        "correct_option": "a",
-        "explanation": "The sentence contains a double negative ('never' and 'nothing'), which creates a grammatical error. The correct form would be 'I have never done anything wrong.'"
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'She has a natural talent ______ music.'",
-        "options": {
-          "a": "in",
-          "b": "of",
-          "c": "for",
-          "d": "with"
-        },
-        "correct_option": "c",
-        "explanation": "'For' is the correct preposition in this context to indicate a natural talent in a particular field, such as music."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate word to complete the sentence: 'The company faced a ______ financial crisis.'",
-        "options": {
-          "a": "minor",
-          "b": "significant",
-          "c": "slight",
-          "d": "moderate"
-        },
-        "correct_option": "b",
-        "explanation": "'Significant' is the correct choice because it describes a crisis that is substantial and noteworthy, suggesting a major impact on the company's finances."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'tenacious':",
-        "options": {
-          "a": "persistent",
-          "b": "flexible",
-          "c": "yielding",
-          "d": "compliant"
-        },
-        "correct_option": "a",
-        "explanation": "'Persistent' is the correct synonym for 'tenacious' as it implies determination and perseverance despite obstacles."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The board ______ the decision after careful consideration.'",
-        "options": {
-          "a": "rejected",
-          "b": "accepted",
-          "c": "postponed",
-          "d": "revised"
-        },
-        "correct_option": "a",
-        "explanation": "'Rejected' is the correct choice because it indicates that the board decided not to go ahead with the decision after careful consideration."
-      },
-      {
-        "level": "C1",
-        "question": "Which of the following phrases is used to express certainty?",
-        "options": {
-          "a": "I think",
-          "b": "It might",
-          "c": "I'm confident",
-          "d": "I'm not sure"
-        },
-        "correct_option": "c",
-        "explanation": "'I'm confident' expresses certainty because it indicates a strong belief or assurance about something."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The evidence ______ that the theory was correct.'",
-        "options": {
-          "a": "negates",
-          "b": "supports",
-          "c": "opposes",
-          "d": "ignores"
-        },
-        "correct_option": "b",
-        "explanation": "'Supports' is the correct choice because it indicates that the evidence confirms or backs up the theory."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'He neither called me or sent me a message.'",
-        "options": {
-          "a": "'Neither' should be followed by 'nor'.",
-          "b": "The subject-verb agreement is incorrect.",
-          "c": "The verb tense is inconsistent.",
-          "d": "The sentence is in passive voice."
-        },
-        "correct_option": "a",
-        "explanation": "The correct conjunction to follow 'neither' is 'nor,' not 'or.' The sentence should be rephrased as 'He neither called me nor sent me a message.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The professor's lecture was ______ and well-researched.'",
-        "options": {
-          "a": "incoherent",
-          "b": "disjointed",
-          "c": "organized",
-          "d": "random"
-        },
-        "correct_option": "c",
-        "explanation": "'Organized' is the correct choice because it suggests the lecture was structured and well-researched."
-      },
-      {
-        "level": "C1",
-        "question": "Read the following passage and answer the question: 'The rise of social media has brought about new challenges in the field of communication. While it has connected people across the globe, it has also led to concerns about the spread of misinformation.' What is the author's main concern?",
-        "options": {
-          "a": "Social media enhances communication.",
-          "b": "Social media improves global connectivity.",
-          "c": "Social media is a reliable source of information.",
-          "d": "Social media spreads misinformation."
-        },
-        "correct_option": "d",
-        "explanation": "The author's main concern is the spread of misinformation through social media."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The committee made a decision ______ the evidence presented.'",
-        "options": {
-          "a": "before",
-          "b": "during",
-          "c": "after",
-          "d": "without"
-        },
-        "correct_option": "c",
-        "explanation": "'After' is the correct choice because the committee made its decision based on the evidence presented."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'She works hardly to achieve her goals.'",
-        "options": {
-          "a": "Incorrect use of adverb form.",
-          "b": "Incorrect use of pronoun.",
-          "c": "Subject-verb disagreement.",
-          "d": "Verb tense inconsistency."
-        },
-        "correct_option": "a",
-        "explanation": "'Hardly' should be replaced with 'hard' because 'hardly' changes the meaning to almost never working. The correct sentence should be 'She works hard to achieve her goals.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the synonym for 'presumptuous':",
-        "options": {
-          "a": "polite",
-          "b": "arrogant",
-          "c": "humble",
-          "d": "respectful"
-        },
-        "correct_option": "b",
-        "explanation": "'Arrogant' is the correct synonym for 'presumptuous' as it implies taking liberties or assuming something without justification."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The meeting was held to ______ a plan for the project.'",
-        "options": {
-          "a": "reject",
-          "b": "approve",
-          "c": "propose",
-          "d": "ignore"
-        },
-        "correct_option": "c",
-        "explanation": "'Propose' is the correct choice because it implies presenting a plan for consideration during the meeting."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate word to complete the sentence: 'The team worked ______ to meet the deadline.'",
-        "options": {
-          "a": "slowly",
-          "b": "leisurely",
-          "c": "diligently",
-          "d": "reluctantly"
-        },
-        "correct_option": "c",
-        "explanation": "'Diligently' is the correct choice because it suggests the team worked carefully and steadily to meet the deadline."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'He is more intelligent then her.'",
-        "options": {
-          "a": "Incorrect use of pronoun.",
-          "b": "Incorrect verb form.",
-          "c": "Incorrect adjective comparison.",
-          "d": "Incorrect adverb form."
-        },
-        "correct_option": "c",
-        "explanation": "The correct comparison should be 'than' instead of 'then.' The correct sentence should be 'He is more intelligent than her.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The project's success was ______ the hard work of the team.'",
-        "options": {
-          "a": "despite",
-          "b": "due to",
-          "c": "in spite of",
-          "d": "regardless of"
-        },
-        "correct_option": "b",
-        "explanation": "'Due to' is the correct choice because it indicates the project's success is a direct result of the hard work of the team."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the synonym for 'obsolete':",
-        "options": {
-          "a": "modern",
-          "b": "outdated",
-          "c": "new",
-          "d": "innovative"
-        },
-        "correct_option": "b",
-        "explanation": "'Outdated' is the correct synonym for 'obsolete,' as it means no longer in use or in fashion due to being superseded by something newer."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The scientist's research has the potential to ______ a breakthrough in the field.'",
-        "options": {
-          "a": "hinder",
-          "b": "delay",
-          "c": "prevent",
-          "d": "lead to"
-        },
-        "correct_option": "d",
-        "explanation": "'Lead to' is the correct choice because the scientist's research has the potential to result in a breakthrough in the field."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'She couldn't hardly wait for the results.'",
-        "options": {
-          "a": "Incorrect use of verb tense.",
-          "b": "Double negative.",
-          "c": "Subject-verb disagreement.",
-          "d": "Incorrect use of pronoun."
-        },
-        "correct_option": "b",
-        "explanation": "The sentence contains a double negative ('couldn't hardly'), which is grammatically incorrect. The sentence should be rephrased as 'She could hardly wait for the results.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The speaker's tone was ______ and engaging.'",
-        "options": {
-          "a": "monotonous",
-          "b": "monotone",
-          "c": "vibrant",
-          "d": "dull"
-        },
-        "correct_option": "c",
-        "explanation": "'Vibrant' is the correct answer because it suggests a lively and engaging tone from the speaker."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The company announced a new policy to ______ its environmental impact.'",
-        "options": {
-          "a": "decrease",
-          "b": "ignore",
-          "c": "increase",
-          "d": "maintain"
-        },
-        "correct_option": "a",
-        "explanation": "'Decrease' is the correct choice because the new policy aims to reduce the company's environmental impact."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'conspicuous':",
-        "options": {
-          "a": "obscure",
-          "b": "evident",
-          "c": "hidden",
-          "d": "unknown"
-        },
-        "correct_option": "b",
-        "explanation": "'Evident' is the correct synonym for 'conspicuous,' as both words mean easily seen or noticeable."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'She don't like the new policy.'",
-        "options": {
-          "a": "Incorrect verb form.",
-          "b": "Incorrect use of pronoun.",
-          "c": "Subject-verb disagreement.",
-          "d": "Verb tense inconsistency."
-        },
-        "correct_option": "c",
-        "explanation": "The sentence contains a subject-verb disagreement; 'don't' is incorrect because it is singular, and the subject 'She' requires 'doesn't.' The sentence should be rephrased as 'She doesn't like the new policy.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'meticulous':",
-        "options": {
-          "a": "careless",
-          "b": "thorough",
-          "c": "negligent",
-          "d": "sloppy"
-        },
-        "correct_option": "b",
-        "explanation": "'Thorough' is the correct synonym for 'meticulous,' as both words mean showing great attention to detail and precision."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate word to complete the sentence: 'The team was able to ______ the project on time.'",
-        "options": {
-          "a": "delay",
-          "b": "complete",
-          "c": "stop",
-          "d": "ignore"
-        },
-        "correct_option": "b",
-        "explanation": "'Complete' is the correct choice because the team was able to finish the project on time."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'The project was completed underbudget and ahead of time.'",
-        "options": {
-          "a": "Subject-verb disagreement.",
-          "b": "Incorrect use of adverb form.",
-          "c": "Incorrect use of verb tense.",
-          "d": "Incorrect use of compound word."
-        },
-        "correct_option": "d",
-        "explanation": "'Underbudget' is a compound word that is incorrect in this context. The correct form should be 'under budget.'"
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The artist's work was known for its ______ style.'",
-        "options": {
-          "a": "traditional",
-          "b": "unconventional",
-          "c": "predictable",
-          "d": "repetitive"
-        },
-        "correct_option": "b",
-        "explanation": "'Unconventional' is the correct choice because the artist's work was known for being unusual and different from traditional styles."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The manager's decision was met with ______ by the staff.'",
-        "options": {
-          "a": "agreement",
-          "b": "approval",
-          "c": "resistance",
-          "d": "enthusiasm"
-        },
-        "correct_option": "c",
-        "explanation": "'Resistance' is the correct answer because the staff reacted negatively to the manager's decision."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The company aims to ______ its global presence.'",
-        "options": {
-          "a": "reduce",
-          "b": "decrease",
-          "c": "expand",
-          "d": "eliminate"
-        },
-        "correct_option": "c",
-        "explanation": "'Expand' is the correct choice because the company wants to increase its global presence."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'comprehensive':",
-        "options": {
-          "a": "limited",
-          "b": "thorough",
-          "c": "partial",
-          "d": "fragmented"
-        },
-        "correct_option": "b",
-        "explanation": "'Thorough' is the correct synonym for 'comprehensive,' as both words mean covering all or nearly all aspects of something."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The project was delayed due to ______ issues.'",
-        "options": {
-          "a": "technical",
-          "b": "logistical",
-          "c": "budgetary",
-          "d": "all of the above"
-        },
-        "correct_option": "d",
-        "explanation": "'All of the above' is the correct choice because technical, logistical, and budgetary issues could all lead to delays in the project."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The singer's performance was ______ and received a standing ovation.'",
-        "options": {
-          "a": "mediocre",
-          "b": "amazing",
-          "c": "subpar",
-          "d": "average"
-        },
-        "correct_option": "b",
-        "explanation": "'Amazing' is the correct answer because it indicates an exceptional performance that warranted a standing ovation."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The new policy is designed to ______ employee productivity.'",
-        "options": {
-          "a": "increase",
-          "b": "decrease",
-          "c": "maintain",
-          "d": "ignore"
-        },
-        "correct_option": "a",
-        "explanation": "'Increase' is the correct choice because the new policy aims to boost employee productivity."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate word to complete the sentence: 'The teacher's explanation ______ the students' understanding of the topic.'",
-        "options": {
-          "a": "hindered",
-          "b": "limited",
-          "c": "enhanced",
-          "d": "obstructed"
-        },
-        "correct_option": "c",
-        "explanation": "'Enhanced' is the correct choice because the teacher's explanation improved the students' understanding of the topic."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The company's new strategy is expected to ______ sales.'",
-        "options": {
-          "a": "decrease",
-          "b": "maintain",
-          "c": "boost",
-          "d": "stabilize"
-        },
-        "correct_option": "c",
-        "explanation": "'Boost' is the correct choice because the company's new strategy is expected to increase sales."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The research findings ______ the hypothesis.'",
-        "options": {
-          "a": "negate",
-          "b": "support",
-          "c": "oppose",
-          "d": "diminish"
-        },
-        "correct_option": "b",
-        "explanation": "'Support' is the correct option because the research findings align with and back the hypothesis."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The speaker's argument was ______ and persuasive.'",
-        "options": {
-          "a": "weak",
-          "b": "confusing",
-          "c": "compelling",
-          "d": "incoherent"
-        },
-        "correct_option": "c",
-        "explanation": "'Compelling' is the correct choice because the speaker's argument was strong and convincing."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct answer: 'The book offers a ______ account of the author's life.'",
-        "options": {
-          "a": "vague",
-          "b": "comprehensive",
-          "c": "partial",
-          "d": "fragmented"
-        },
-        "correct_option": "b",
-        "explanation": "'Comprehensive' is the correct choice because the book provides a thorough account of the author's life."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The director's vision ______ the film's success.'",
-        "options": {
-          "a": "limited",
-          "b": "obstructed",
-          "c": "hindered",
-          "d": "contributed to"
-        },
-        "correct_option": "d",
-        "explanation": "'Contributed to' is the correct choice because the director's vision played a key role in the film's success."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'He done well on the exam.'",
-        "options": {
-          "a": "Incorrect use of verb tense.",
-          "b": "Subject-verb disagreement.",
-          "c": "Incorrect use of pronoun.",
-          "d": "Incorrect adjective comparison."
-        },
-        "correct_option": "a",
-        "explanation": "The error is the incorrect use of verb tense; 'done' should be 'did' for the past tense."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'paradox':",
-        "options": {
-          "a": "contradiction",
-          "b": "certainty",
-          "c": "truth",
-          "d": "obviousness"
-        },
-        "correct_option": "a",
-        "explanation": "'Contradiction' is the correct synonym for 'paradox' because it represents two opposing or contradictory ideas."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct answer: 'The manager's decision was ______ by the board of directors.'",
-        "options": {
-          "a": "supported",
-          "b": "challenged",
-          "c": "ignored",
-          "d": "opposed"
-        },
-        "correct_option": "a",
-        "explanation": "'Supported' is the correct option because the board of directors agreed with the manager's decision."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The team worked diligently to ______ the project on time.'",
-        "options": {
-          "a": "finish",
-          "b": "ignore",
-          "c": "delay",
-          "d": "cancel"
-        },
-        "correct_option": "a",
-        "explanation": "'Finish' is the correct choice because it aligns with the team's diligent work to complete the project on time."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The product's quality is ______ important to its success.'",
-        "options": {
-          "a": "moderately",
-          "b": "less",
-          "c": "highly",
-          "d": "barely"
-        },
-        "correct_option": "c",
-        "explanation": "'Highly' is the correct choice because the quality of a product is crucial to its success."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'opaque':",
-        "options": {
-          "a": "transparent",
-          "b": "translucent",
-          "c": "cloudy",
-          "d": "clear"
-        },
-        "correct_option": "c",
-        "explanation": "'Cloudy' is the correct synonym for 'opaque' because it refers to something that is not clear or transparent."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The company's new policy is aimed at ______ employee satisfaction.'",
-        "options": {
-          "a": "decreasing",
-          "b": "ignoring",
-          "c": "reducing",
-          "d": "increasing"
-        },
-        "correct_option": "d",
-        "explanation": "'Increasing' is the correct option because the policy aims to boost employee satisfaction."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'The meeting were scheduled for next week.'",
-        "options": {
-          "a": "Subject-verb disagreement.",
-          "b": "Incorrect verb tense.",
-          "c": "Verb tense inconsistency.",
-          "d": "Incorrect use of adverb form."
-        },
-        "correct_option": "a",
-        "explanation": "The error is a subject-verb disagreement because 'meeting' is singular and should be followed by 'was scheduled.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate word to complete the sentence: 'The project is currently in the ______ phase.'",
-        "options": {
-          "a": "concluding",
-          "b": "beginning",
-          "c": "planning",
-          "d": "implementation"
-        },
-        "correct_option": "d",
-        "explanation": "'Implementation' is the correct choice because the project is in the phase of putting plans into action."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The company experienced a significant ______ in profits.'",
-        "options": {
-          "a": "decrease",
-          "b": "increase",
-          "c": "stabilization",
-          "d": "plateau"
-        },
-        "correct_option": "b",
-        "explanation": "'Increase' is the correct option because the company experienced a significant rise in profits."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'resilient':",
-        "options": {
-          "a": "fragile",
-          "b": "vulnerable",
-          "c": "unbreakable",
-          "d": "sensitive"
-        },
-        "correct_option": "c",
-        "explanation": "'Unbreakable' is the correct synonym for 'resilient' because it indicates the ability to withstand challenges."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The company aims to ______ its environmental impact.'",
-        "options": {
-          "a": "minimize",
-          "b": "ignore",
-          "c": "increase",
-          "d": "maintain"
-        },
-        "correct_option": "a",
-        "explanation": "'Minimize' is the correct choice because the company aims to reduce its environmental impact as much as possible."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate word to complete the sentence: 'The project was successful, ______ to the team's hard work.'",
-        "options": {
-          "a": "regardless",
-          "b": "due",
-          "c": "despite",
-          "d": "contrary"
-        },
-        "correct_option": "b",
-        "explanation": "'Due' is the correct choice because it indicates the success of the project is attributed to the team's hard work."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The conference focused on ______ trends in technology.'",
-        "options": {
-          "a": "past",
-          "b": "current",
-          "c": "future",
-          "d": "all of the above"
-        },
-        "correct_option": "d",
-        "explanation": "The correct choice is 'all of the above' because the conference focused on trends from past, present, and future perspectives."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The new technology will ______ the efficiency of the process.'",
-        "options": {
-          "a": "hinder",
-          "b": "slow down",
-          "c": "improve",
-          "d": "halt"
-        },
-        "correct_option": "c",
-        "explanation": "'Improve' is the correct choice because new technology often aims to increase efficiency, not hinder or slow down the process."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The artist's work was known for its ______ approach to painting.'",
-        "options": {
-          "a": "traditional",
-          "b": "realistic",
-          "c": "experimental",
-          "d": "derivative"
-        },
-        "correct_option": "c",
-        "explanation": "'Experimental' is the correct option because it indicates the artist's work was characterized by innovative and unconventional approaches to painting."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'insidious':",
-        "options": {
-          "a": "harmless",
-          "b": "benign",
-          "c": "cunning",
-          "d": "obvious"
-        },
-        "correct_option": "c",
-        "explanation": "'Cunning' is the correct synonym for 'insidious,' which refers to something harmful or deceptive in a subtle or sneaky way."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The company's strategy is to ______ its market share.'",
-        "options": {
-          "a": "decrease",
-          "b": "stabilize",
-          "c": "increase",
-          "d": "diminish"
-        },
-        "correct_option": "c",
-        "explanation": "'Increase' is the correct option because the company's strategy aims to grow its market share."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'The project are scheduled to begin next week.'",
-        "options": {
-          "a": "Subject-verb disagreement.",
-          "b": "Incorrect verb form.",
-          "c": "Incorrect use of adverb form.",
-          "d": "Incorrect adjective comparison."
-        },
-        "correct_option": "a",
-        "explanation": "The sentence contains a subject-verb disagreement because 'project' is singular and should be followed by 'is scheduled.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The product's durability is ______ important for its longevity.'",
-        "options": {
-          "a": "less",
-          "b": "highly",
-          "c": "minimally",
-          "d": "negligibly"
-        },
-        "correct_option": "b",
-        "explanation": "'Highly' is the correct choice because the durability of the product is a key factor in determining its longevity and overall quality."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'fortuitous':",
-        "options": {
-          "a": "unlucky",
-          "b": "inconsequential",
-          "c": "opportune",
-          "d": "detrimental"
-        },
-        "correct_option": "c",
-        "explanation": "The correct option is 'opportune' because 'fortuitous' refers to something happening by chance in a positive or advantageous way. The other options describe negative or neutral situations."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The company's decision to ______ the project was based on careful analysis.'",
-        "options": {
-          "a": "delay",
-          "b": "approve",
-          "c": "reject",
-          "d": "ignore"
-        },
-        "correct_option": "b",
-        "explanation": "The correct option is 'approve' because the sentence indicates a decision was made based on careful analysis, suggesting the project was given the go-ahead."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The new software is designed to ______ productivity.'",
-        "options": {
-          "a": "hinder",
-          "b": "improve",
-          "c": "slow down",
-          "d": "halt"
-        },
-        "correct_option": "b",
-        "explanation": "'Improve' is the correct option because new software is often developed to increase efficiency and productivity, not to decrease it."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'He always do his homework on time.'",
-        "options": {
-          "a": "Incorrect verb form.",
-          "b": "Subject-verb disagreement.",
-          "c": "Incorrect use of pronoun.",
-          "d": "Verb tense inconsistency."
-        },
-        "correct_option": "b",
-        "explanation": "The sentence contains a subject-verb disagreement. The singular subject 'he' requires the verb form 'does,' not 'do.'"
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The committee's decision was met with ______.'",
-        "options": {
-          "a": "indifference",
-          "b": "enthusiasm",
-          "c": "resistance",
-          "d": "neutrality"
-        },
-        "correct_option": "b",
-        "explanation": "'Enthusiasm' is the correct option because the committee's decision was met with positive and eager support, not resistance or indifference."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate word to complete the sentence: 'The project was completed ______ of the challenges.'",
-        "options": {
-          "a": "in spite",
-          "b": "because",
-          "c": "regardless",
-          "d": "due"
-        },
-        "correct_option": "a",
-        "explanation": "'In spite' is the correct choice because it is used to express overcoming challenges or difficulties during the project."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The research team worked ______ to gather data.'",
-        "options": {
-          "a": "slowly",
-          "b": "casually",
-          "c": "diligently",
-          "d": "leisurely"
-        },
-        "correct_option": "c",
-        "explanation": "'Diligently' is the correct choice because it suggests working with great care and effort, which is important in gathering accurate data."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'Neither him or his friend were present at the meeting.'",
-        "options": {
-          "a": "Subject-verb disagreement.",
-          "b": "Incorrect verb tense.",
-          "c": "Incorrect use of pronoun.",
-          "d": "'Neither' should be followed by 'nor'."
-        },
-        "correct_option": "d",
-        "explanation": "The correct option is 'd' because the sentence structure is incorrect. 'Neither' should be followed by 'nor' instead of 'or.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The company's decision was based on ______ research.'",
-        "options": {
-          "a": "incomplete",
-          "b": "extensive",
-          "c": "limited",
-          "d": "insufficient"
-        },
-        "correct_option": "b",
-        "explanation": "'Extensive' research refers to thorough, wide-ranging research, which is essential for making informed decisions. The other options imply research that is limited or lacking."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct synonym for 'astute':",
-        "options": {
-          "a": "ignorant",
-          "b": "naive",
-          "c": "shrewd",
-          "d": "clueless"
-        },
-        "correct_option": "c",
-        "explanation": "'Shrewd' is a synonym of 'astute,' meaning someone who is clever, perceptive, and has good judgment."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The project was deemed successful ______ to its innovative approach.'",
-        "options": {
-          "a": "due",
-          "b": "despite",
-          "c": "in spite",
-          "d": "regardless"
-        },
-        "correct_option": "a",
-        "explanation": "'Due to' is the correct preposition to use in this context to indicate that the success was a direct result of the innovative approach."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The manager's decision was met with ______ by the team.'",
-        "options": {
-          "a": "enthusiasm",
-          "b": "resistance",
-          "c": "disinterest",
-          "d": "indifference"
-        },
-        "correct_option": "b",
-        "explanation": "The manager's decision was met with 'resistance' because the team disagreed with the decision. 'Enthusiasm' and 'support' would suggest agreement, while 'disinterest' and 'indifference' imply apathy."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The book offers a ______ analysis of the issue.'",
-        "options": {
-          "a": "superficial",
-          "b": "thorough",
-          "c": "incomplete",
-          "d": "vague"
-        },
-        "correct_option": "b",
-        "explanation": "'Thorough' is the most suitable adjective to describe an analysis that is comprehensive and in-depth. The other options suggest a lack of detail or clarity."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The new employee is very ______ in their approach to work.'",
-        "options": {
-          "a": "careless",
-          "b": "diligent",
-          "c": "negligent",
-          "d": "reluctant"
-        },
-        "correct_option": "b",
-        "explanation": "'Diligent' is the correct adjective to describe someone who is hardworking and attentive in their work. The other options imply a lack of effort or commitment."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The meeting was scheduled to ______ the new policy.'",
-        "options": {
-          "a": "discuss",
-          "b": "ignore",
-          "c": "delay",
-          "d": "cancel"
-        },
-        "correct_option": "a",
-        "explanation": "'Discuss' is the correct verb to use when referring to a meeting about the new policy. The other options suggest avoiding or postponing the discussion."
-      },
-      {
-        "level": "C1",
-        "question": "Identify the grammatical error in the sentence: 'He doesn't knows the answer.'",
-        "options": {
-          "a": "Subject-verb disagreement.",
-          "b": "Incorrect use of pronoun.",
-          "c": "Verb tense inconsistency.",
-          "d": "Incorrect verb form."
-        },
-        "correct_option": "d",
-        "explanation": "The sentence contains an incorrect verb form. 'Doesn't' is an auxiliary verb for the present tense and should be followed by the base form of the verb ('know'), not 'knows.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate answer: 'The company's new policy is expected to ______ employee morale.'",
-        "options": {
-          "a": "improve",
-          "b": "lower",
-          "c": "diminish",
-          "d": "reduce"
-        },
-        "correct_option": "a",
-        "explanation": "'Improve' is the correct verb to describe the positive impact the company's new policy is expected to have on employee morale."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The product was highly rated due to its ______.'",
-        "options": {
-          "a": "quality",
-          "b": "inexpensiveness",
-          "c": "durability",
-          "d": "all of the above"
-        },
-        "correct_option": "d",
-        "explanation": "'All of the above' is the correct option because the product's high rating is attributed to its quality, affordability, and durability."
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The manager's decision was met with ______ by the staff.'",
-        "options": {
-          "a": "enthusiasm",
-          "b": "resistance",
-          "c": "support",
-          "d": "indifference"
-        },
-        "correct_option": "b",
-        "explanation": "'Resistance' is the correct option because the staff disagreed with the manager's decision, showing opposition."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "She called me when she got home.",
-          "b": "He had already left when I arrived.",
-          "c": "We went to the park yesterday.",
-          "d": "They ate dinner at the restaurant."
-        },
-        "correct_option": "b",
-        "explanation": "The past perfect tense (option b) describes an action that happened before another action in the past. The sentence indicates that he left before I arrived."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "After they had finished their homework, they watched TV.",
-          "b": "He had already eaten when I offered him dinner.",
-          "c": "We traveled to Spain last summer.",
-          "d": "She had studied English for years."
-        },
-        "correct_option": "c",
-        "explanation": "The past simple tense (option c) describes a completed action in the past. The sentence describes a trip taken last summer."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "They had never seen the movie before last night.",
-          "b": "She took her dog for a walk.",
-          "c": "We danced at the party.",
-          "d": "He played tennis with his friends."
-        },
-        "correct_option": "a",
-        "explanation": "The past perfect tense (option a) is used to describe an action that happened before a specific time in the past. The sentence indicates that they had never seen the movie before last night."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "She studied hard before the exam.",
-          "b": "They had lived in Paris for years before moving back.",
-          "c": "He had written a book before starting his career.",
-          "d": "We had already left when you called."
-        },
-        "correct_option": "a",
-        "explanation": "The past simple tense (option a) describes a completed action in the past. The sentence describes the act of studying hard before an exam."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "We had been to the museum before it closed.",
-          "b": "He called me last night.",
-          "c": "She cooked dinner for her family.",
-          "d": "They watched the sunrise."
-        },
-        "correct_option": "a",
-        "explanation": "The past perfect tense (option a) describes an action that happened before another action in the past. The sentence indicates that they had been to the museum before it closed."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "He watched the game on TV.",
-          "b": "They had left the room when she arrived.",
-          "c": "We had finished dinner before 9 PM.",
-          "d": "She had not seen him in years."
-        },
-        "correct_option": "a",
-        "explanation": "The past simple tense (option a) describes a completed action in the past. The sentence indicates that he watched the game on TV."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "They visited their friends on Saturday.",
-          "b": "She had never seen a real-life elephant before the zoo visit.",
-          "c": "He jogged every morning.",
-          "d": "We went shopping at the mall."
-        },
-        "correct_option": "b",
-        "explanation": "The past perfect tense (option b) describes an action that happened before a specific event in the past. The sentence indicates that she had never seen an elephant before the visit to the zoo."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "They had eaten dinner before we arrived.",
-          "b": "He went to the store to buy groceries.",
-          "c": "We had decided on the destination before leaving.",
-          "d": "She had found her keys under the couch."
-        },
-        "correct_option": "b",
-        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he went to the store to buy groceries."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "She bought a new car last month.",
-          "b": "They had planned a trip before the pandemic hit.",
-          "c": "He took a vacation last year.",
-          "d": "We played games at the party."
-        },
-        "correct_option": "b",
-        "explanation": "The past perfect tense (option b) describes an action that happened before a specific event in the past. The sentence indicates that they had planned a trip before the pandemic hit."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "He had taken the test before his friends arrived.",
-          "b": "She went to bed early last night.",
-          "c": "They had visited Italy before their wedding.",
-          "d": "We had already finished the book."
-        },
-        "correct_option": "b",
-        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that she went to bed early last night."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "She finished her assignment on time.",
-          "b": "They had already left the house when we arrived.",
-          "c": "He played guitar at the party.",
-          "d": "We walked to the store yesterday."
-        },
-        "correct_option": "b",
-        "explanation": "The past perfect tense (option b) describes an action that happened before another action in the past. The sentence indicates that they had already left the house before we arrived."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "She had been sick all week before seeing the doctor.",
-          "b": "They talked about the new project.",
-          "c": "We had gone to the concert last week.",
-          "d": "He had worked for that company for years."
-        },
-        "correct_option": "b",
-        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that they talked about the new project."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "He had never tried sushi before moving to Japan.",
-          "b": "She painted the room blue.",
-          "c": "We had dinner with friends last night.",
-          "d": "They played chess in the afternoon."
-        },
-        "correct_option": "a",
-        "explanation": "The past perfect tense (option a) describes an action that happened before another action in the past. The sentence indicates that he had never tried sushi before moving to Japan."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "He finished the book in one sitting.",
-          "b": "They had lived in the city before they moved to the countryside.",
-          "c": "She had written a letter to her friend.",
-          "d": "We had prepared for the meeting in advance."
-        },
-        "correct_option": "a",
-        "explanation": "The past simple tense (option a) describes a completed action in the past. The sentence indicates that he finished the book in one sitting."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "We walked along the beach at sunset.",
-          "b": "She had locked the door before leaving the house.",
-          "c": "They had a picnic in the park.",
-          "d": "He drove to work early in the morning."
-        },
-        "correct_option": "b",
-        "explanation": "The past perfect tense (option b) describes an action that happened before another action in the past. The sentence indicates that she had locked the door before leaving the house."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "They had gone hiking before it started raining.",
-          "b": "He bought a new phone last week.",
-          "c": "She had not traveled abroad before last summer.",
-          "d": "We had lived in France before moving to Canada."
-        },
-        "correct_option": "b",
-        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he bought a new phone last week."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "They had been friends since childhood.",
-          "b": "He watched the football match.",
-          "c": "She went to the gym in the evening.",
-          "d": "We visited the museum last Saturday."
-        },
-        "correct_option": "a",
-        "explanation": "The past perfect tense (option a) describes an action that began in the past and continued up to a specific point in the past. The sentence indicates that they had been friends since childhood."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "She had made a cake for her brother's birthday.",
-          "b": "He received a promotion at work last year.",
-          "c": "They had never been to that restaurant before.",
-          "d": "We had decided to go on vacation in the winter."
-        },
-        "correct_option": "b",
-        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he received a promotion at work last year."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past perfect tense?",
-        "options": {
-          "a": "We played tennis at the park.",
-          "b": "He cooked dinner for his family.",
-          "c": "She had studied Spanish for two years.",
-          "d": "They traveled to Italy last summer."
-        },
-        "correct_option": "c",
-        "explanation": "The past perfect tense (option c) describes an action that happened before another action in the past. The sentence indicates that she had studied Spanish for two years."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is in the past simple tense?",
-        "options": {
-          "a": "They had been friends for many years.",
-          "b": "He wrote a poem for his partner.",
-          "c": "She had moved out of her apartment before starting her new job.",
-          "d": "We had bought the tickets before the concert."
-        },
-        "correct_option": "b",
-        "explanation": "The past simple tense (option b) describes a completed action in the past. The sentence indicates that he wrote a poem for his partner."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence is correctly written in the past continuous tense?",
-        "options": {
-          "a": "I was seeing the movie yesterday.",
-          "b": "I have been seeing the movie yesterday.",
-          "c": "I was watching the movie yesterday.",
-          "d": "I am watching the movie yesterday."
-        },
-        "correct_option": "c",
-        "explanation": "The correct past continuous structure is 'was/were + -ing form'. In this case, 'was watching the movie yesterday' is the correct form."
-      },
-      {
-        "level": "C1",
-        "question": "What were you doing when the alarm went off?",
-        "options": {
-          "a": "I was reading a book.",
-          "b": "I read a book.",
-          "c": "I have read a book.",
-          "d": "I am reading a book."
-        },
-        "correct_option": "a",
-        "explanation": "'I was reading a book' is the correct option because it uses the past continuous tense to describe an action in progress when another action occurred."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correctly written past continuous sentence.",
-        "options": {
-          "a": "He has been working on the project.",
-          "b": "He was working on the project.",
-          "c": "He will be working on the project.",
-          "d": "He is working on the project."
-        },
-        "correct_option": "b",
-        "explanation": "The correct past continuous form is 'was/were + -ing form'. 'He was working on the project' is the correct form to describe an action in progress in the past."
-      },
-      {
-        "level": "C1",
-        "question": "Select the sentence that uses the past continuous tense correctly:",
-        "options": {
-          "a": "They were having a meeting while I was writing the report.",
-          "b": "They have been having a meeting while I was writing the report.",
-          "c": "They had a meeting while I write the report.",
-          "d": "They are having a meeting while I was writing the report."
-        },
-        "correct_option": "a",
-        "explanation": "'They were having a meeting while I was writing the report' correctly uses the past continuous tense for actions happening simultaneously in the past."
-      },
-      {
-        "level": "B2",
-        "question": "Which sentence correctly uses the past continuous tense?",
-        "options": {
-          "a": "I was learning French since last year.",
-          "b": "I was learning French for two hours yesterday.",
-          "c": "I learned French for two hours yesterday.",
-          "d": "I have been learning French for two hours yesterday."
-        },
-        "correct_option": "b",
-        "explanation": "'I was learning French for two hours yesterday' uses the past continuous tense correctly to describe an action that was in progress at a specific time in the past."
-      },
-      {
-        "level": "C1",
-        "question": "When I arrived at the party, she ____ the piano beautifully.",
-        "options": {
-          "a": "was playing",
-          "b": "played",
-          "c": "is playing",
-          "d": "had played"
-        },
-        "correct_option": "a",
-        "explanation": "'Was playing' is the correct past continuous form to describe an action in progress when another action occurred."
-      },
-      {
-        "level": "B2",
-        "question": "Identify the correct past continuous sentence.",
-        "options": {
-          "a": "He was always visiting his grandparents on weekends.",
-          "b": "He was visiting his grandparents on weekends.",
-          "c": "He had visited his grandparents on weekends.",
-          "d": "He is visiting his grandparents on weekends."
-        },
-        "correct_option": "b",
-        "explanation": "The past continuous structure is 'was/were + -ing form'. In this case, 'He was visiting his grandparents on weekends' correctly describes a past action in progress."
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correctly formed past continuous sentence:",
-        "options": {
-          "a": "I am working on the report when he arrived.",
-          "b": "I was working on the report when he arrived.",
-          "c": "I have been working on the report when he arrived.",
-          "d": "I worked on the report when he arrived."
-        },
-        "correct_option": "b",
-        "explanation": "'I was working on the report when he arrived' uses the past continuous to describe an ongoing action that was interrupted by another event."
-      },
-      {
-        "level": "B2",
-        "question": "Which of the following sentences is an example of the past continuous tense?",
-        "options": {
-          "a": "She will be singing at the concert.",
-          "b": "She sang at the concert.",
-          "c": "She was singing at the concert.",
-          "d": "She sings at the concert."
-        },
-        "correct_option": "c",
-        "explanation": "The past continuous structure is 'was/were + -ing form'. In this case, 'She was singing at the concert' is the correct option."
-      },
-      {
-        "level": "C1",
-        "question": "Which sentence demonstrates a past continuous action in combination with a simple past event?",
-        "options": {
-          "a": "While I was reading a book, she was painting a picture.",
-          "b": "While I read a book, she painted a picture.",
-          "c": "While I was reading a book, she painted a picture.",
-          "d": "While I am reading a book, she painted a picture."
-        },
-        "correct_option": "c",
-        "explanation": "'While I was reading a book, she painted a picture' uses past continuous for an ongoing action and simple past for an event that interrupted the ongoing action."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct past continuous sentence.",
-        "options": {
-          "a": "She was sang beautifully last night.",
-          "b": "She was singing beautifully last night.",
-          "c": "She sang beautifully last night.",
-          "d": "She is singing beautifully last night."
-        },
-        "correct_option": "b",
-        "explanation": "'She was singing beautifully last night' is the correct past continuous form to describe an ongoing action at a specific time in the past."
-      },
-      {
-        "level": "C1",
-        "question": "Select the sentence that uses the past continuous tense correctly:",
-        "options": {
-          "a": "By the time I finished the book, he will be leaving.",
-          "b": "By the time I finished the book, he was leaving.",
-          "c": "By the time I finished the book, he left.",
-          "d": "By the time I finished the book, he is leaving."
-        },
-        "correct_option": "b",
-        "explanation": "'By the time I finished the book, he was leaving' uses the past continuous to describe an ongoing action in the past that was ending as another action was completed."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correctly written past continuous sentence.",
-        "options": {
-          "a": "She was talking to her friend when the accident happened.",
-          "b": "She talked to her friend when the accident happened.",
-          "c": "She had talked to her friend when the accident happened.",
-          "d": "She is talking to her friend when the accident happened."
-        },
-        "correct_option": "a",
-        "explanation": "'She was talking to her friend when the accident happened' uses the past continuous for an action in progress when another action occurred."
-      },
-      {
         "level": "C1",
-        "question": "Which sentence correctly uses the past continuous to describe simultaneous actions?",
-        "options": {
-          "a": "They were watching TV, and I cooked dinner.",
-          "b": "They watched TV, and I was cooking dinner.",
-          "c": "They were watching TV, and I was cooking dinner.",
-          "d": "They watch TV, and I cooked dinner."
-        },
-        "correct_option": "c",
-        "explanation": "'They were watching TV, and I was cooking dinner' correctly uses past continuous to describe two actions happening simultaneously in the past."
-      },
-      {
-        "level": "B2",
-        "question": "Identify the sentence that uses the past continuous correctly:",
-        "options": {
-          "a": "He was work hard when I called him.",
-          "b": "He was working hard when I called him.",
-          "c": "He worked hard when I called him.",
-          "d": "He has worked hard when I called him."
-        },
-        "correct_option": "b",
-        "explanation": "'He was working hard when I called him' correctly uses the past continuous to describe an action in progress at the time another action occurred."
-      },
-      {
-        "level": "C1",
-        "question": "Which sentence correctly combines the past continuous with the past simple?",
-        "options": {
-          "a": "While he worked on his computer, I was making dinner.",
-          "b": "While he was working on his computer, I made dinner.",
-          "c": "While he worked on his computer, I made dinner.",
-          "d": "While he worked on his computer, I am making dinner."
-        },
-        "correct_option": "b",
-        "explanation": "'While he was working on his computer, I made dinner' uses the past continuous to describe an ongoing action in progress, while the past simple is used for the action that occurred."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct past continuous sentence:",
-        "options": {
-          "a": "I was cooking when the phone rang.",
-          "b": "I cooked when the phone rang.",
-          "c": "I have been cooking when the phone rang.",
-          "d": "I am cooking when the phone rang."
-        },
-        "correct_option": "a",
-        "explanation": "'I was cooking when the phone rang' correctly uses the past continuous to describe an ongoing action in progress when another action occurred."
-      },
-      {
-        "level": "C1",
-        "question": "Which sentence correctly combines past continuous and past simple?",
-        "options": {
-          "a": "By the time I got there, the match had been already over.",
-          "b": "By the time I got there, the match was just starting.",
-          "c": "By the time I got there, the match was already going on.",
-          "d": "By the time I got there, the match is just starting."
-        },
-        "correct_option": "c",
-        "explanation": "'By the time I got there, the match was already going on' uses past continuous for an ongoing action in progress at the time another event occurred."
-      },
-      {
-        "level": "B2",
-        "question": "Which of the following sentences is an example of past continuous tense?",
-        "options": {
-          "a": "I was reading a book when the power went out.",
-          "b": "I read a book when the power went out.",
-          "c": "I have read a book when the power went out.",
-          "d": "I will read a book when the power went out."
-        },
-        "correct_option": "a",
-        "explanation": "'I was reading a book when the power went out' uses the past continuous to describe an action in progress when another action occurred."
-      },
-      {
-        "level": "C1",
-        "question": "Which of the following sentences correctly uses past continuous for an ongoing action in the past?",
-        "options": {
-          "a": "When I saw them, they were arguing.",
-          "b": "When I see them, they argue.",
-          "c": "When I had seen them, they argued.",
-          "d": "When I saw them, they argued."
-        },
-        "correct_option": "a",
-        "explanation": "'When I saw them, they were arguing' uses past continuous for an action in progress when another action occurred."
-      },
-      {
-        "level": "B2",
-        "question": "Choose the appropriate verb to complete the sentence: 'After the accident, she _____ surgery.'",
-        "options": {
-          "a": "did",
-          "b": "made",
-          "c": "got",
-          "d": "had"
-        },
-        "correct_option": "d",
-        "explanation": "'Had surgery' is the correct expression using the delexical verb 'had.'"
-      },
-      {
-        "level": "B2",
-        "question": "Which option correctly completes the sentence? 'She _____ an argument with her friend.'",
-        "options": {
-          "a": "got",
-          "b": "made",
-          "c": "took",
-          "d": "had"
-        },
-        "correct_option": "d",
-        "explanation": "'Had an argument' is the correct expression using the delexical verb 'had.'"
-      },
-      {
-        "level": "B2",
-        "question": "Fill in the blank: 'He _____ a mistake in his calculations.'",
+        "question": "We __________ (have) dinner when the lights went out.",
         "options": {
-          "a": "got",
+          "a": "were having",
           "b": "had",
-          "c": "made",
-          "d": "took"
+          "c": "have had",
+          "d": "are having"
+        },
+        "correct_option": "a",
+        "explanation": "The action of having dinner was ongoing when the lights went out, so 'were having' is the correct form in the past continuous tense."
+      },
+      {
+        "level": "C1",
+        "question": "She __________ (write) an email when the computer crashed.",
+        "options": {
+          "a": "wrote",
+          "b": "was writing",
+          "c": "has written",
+          "d": "is writing"
+        },
+        "correct_option": "b",
+        "explanation": "The action of writing an email was ongoing when the computer crashed, so 'was writing' is the correct form in the past continuous tense."
+      },
+      {
+        "level": "C1",
+        "question": "They __________ (play) football when it started to rain.",
+        "options": {
+          "a": "played",
+          "b": "have played",
+          "c": "were playing",
+          "d": "are playing"
         },
         "correct_option": "c",
-        "explanation": "'Made a mistake' is the correct expression using the delexical verb 'made.'"
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct verb: 'She _____ the bus to work every morning.'",
-        "options": {
-          "a": "got",
-          "b": "took",
-          "c": "had",
-          "d": "made"
-        },
-        "correct_option": "b",
-        "explanation": "'Took the bus' is the correct expression using the delexical verb 'took.'"
-      },
-      {
-        "level": "B2",
-        "question": "Complete the sentence: 'They _____ a decision to move abroad.'",
-        "options": {
-          "a": "did",
-          "b": "made",
-          "c": "got",
-          "d": "took"
-        },
-        "correct_option": "b",
-        "explanation": "'Made a decision' is the correct expression using the delexical verb 'made.'"
+        "explanation": "The action of playing football was ongoing when it started to rain, so 'were playing' is the correct form in the past continuous tense."
       },
       {
         "level": "C1",
-        "question": "Which option completes the sentence correctly? 'The company _____ a loss last quarter.'",
+        "question": "I __________ (study) for the exam all evening.",
         "options": {
-          "a": "took",
-          "b": "made",
-          "c": "got",
-          "d": "had"
+          "a": "studied",
+          "b": "was studying",
+          "c": "have studied",
+          "d": "am studying"
         },
         "correct_option": "b",
-        "explanation": "'Made a loss' is the correct expression using the delexical verb 'made.'"
+        "explanation": "The action of studying was ongoing all evening, so 'was studying' is the correct form in the past continuous tense."
       },
       {
         "level": "C1",
-        "question": "Choose the correct verb: 'She _____ the opportunity to work abroad.'",
+        "question": "He __________ (not sleep) when the alarm went off.",
         "options": {
-          "a": "got",
-          "b": "made",
-          "c": "had",
-          "d": "took"
+          "a": "didn't sleep",
+          "b": "hasn't slept",
+          "c": "wasn't sleeping",
+          "d": "isn't sleeping"
+        },
+        "correct_option": "c",
+        "explanation": "The action of not sleeping was ongoing when the alarm went off, so 'wasn't sleeping' is the correct form in the past continuous tense."
+      },
+      {
+        "level": "C1",
+        "question": "We __________ (talk) about the issue when she interrupted.",
+        "options": {
+          "a": "talked",
+          "b": "have talked",
+          "c": "were talking",
+          "d": "are talking"
+        },
+        "correct_option": "c",
+        "explanation": "The action of talking was ongoing when she interrupted, so 'were talking' is the correct form in the past continuous tense."
+      },
+      {
+        "level": "B2",
+        "question": "By the time we arrived, the movie __________ (start).",
+        "options": {
+          "a": "had started",
+          "b": "started",
+          "c": "has started",
+          "d": "was starting"
+        },
+        "correct_option": "a",
+        "explanation": "The action of the movie starting happened before we arrived, so 'had started' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "C1",
+        "question": "She __________ (finish) her homework before she went out.",
+        "options": {
+          "a": "finished",
+          "b": "had finished",
+          "c": "has finished",
+          "d": "was finishing"
+        },
+        "correct_option": "b",
+        "explanation": "The action of finishing homework happened before she went out, so 'had finished' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "B2",
+        "question": "He didn't go to the party because he __________ (not receive) an invitation.",
+        "options": {
+          "a": "did not receive",
+          "b": "had not received",
+          "c": "has not received",
+          "d": "was not receiving"
+        },
+        "correct_option": "b",
+        "explanation": "The action of not receiving an invitation happened before he decided not to go, so 'had not received' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "C1",
+        "question": "They __________ (already leave) when we got there.",
+        "options": {
+          "a": "had already left",
+          "b": "already left",
+          "c": "have already left",
+          "d": "were already leaving"
+        },
+        "correct_option": "a",
+        "explanation": "The action of leaving happened before we got there, so 'had already left' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "B2",
+        "question": "She couldn't find her keys because she __________ (lose) them.",
+        "options": {
+          "a": "had lost",
+          "b": "lost",
+          "c": "has lost",
+          "d": "was losing"
+        },
+        "correct_option": "a",
+        "explanation": "The action of losing the keys happened before she couldn't find them, so 'had lost' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "C1",
+        "question": "We __________ (not see) such a beautiful sunset before.",
+        "options": {
+          "a": "had not seen",
+          "b": "did not see",
+          "c": "have not seen",
+          "d": "were not seeing"
+        },
+        "correct_option": "a",
+        "explanation": "The action of not seeing such a sunset happened before the time being referred to, so 'had not seen' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "B2",
+        "question": "After they __________ (eat) dinner, they went for a walk.",
+        "options": {
+          "a": "had eaten",
+          "b": "ate",
+          "c": "have eaten",
+          "d": "were eating"
+        },
+        "correct_option": "a",
+        "explanation": "The action of eating dinner happened before they went for a walk, so 'had eaten' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "C1",
+        "question": "She __________ (never be) to Paris before her trip last year.",
+        "options": {
+          "a": "had never been",
+          "b": "never was",
+          "c": "has never been",
+          "d": "was never being"
+        },
+        "correct_option": "a",
+        "explanation": "The action of never being to Paris happened before her trip last year, so 'had never been' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "B2",
+        "question": "By the time I got to the station, the train __________ (leave).",
+        "options": {
+          "a": "had left",
+          "b": "left",
+          "c": "has left",
+          "d": "was leaving"
+        },
+        "correct_option": "a",
+        "explanation": "The action of the train leaving happened before I got to the station, so 'had left' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "C1",
+        "question": "He __________ (save) enough money before he bought the car.",
+        "options": {
+          "a": "had saved",
+          "b": "saved",
+          "c": "has saved",
+          "d": "was saving"
+        },
+        "correct_option": "a",
+        "explanation": "The action of saving enough money happened before he bought the car, so 'had saved' is the correct form in the past perfect tense."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the passive voice form of the sentence: 'The chef prepares the meal.'",
+        "options": {
+          "a": "The meal is prepared by the chef.",
+          "b": "The meal prepares by the chef.",
+          "c": "The chef is prepared by the meal.",
+          "d": "The meal was preparing by the chef."
+        },
+        "correct_option": "a",
+        "explanation": "In passive voice, the object of the active sentence becomes the subject, and the verb form changes accordingly."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the active voice form of the sentence: 'The novel was written by the author.'",
+        "options": {
+          "a": "The author writes the novel.",
+          "b": "The author wrote the novel.",
+          "c": "The novel wrote the author.",
+          "d": "The novel is writing the author."
+        },
+        "correct_option": "b",
+        "explanation": "In active voice, the subject performs the action, so the author is the one who wrote the novel."
+      },
+      {
+        "level": "C1",
+        "question": "Choose the passive voice form of the sentence: 'They will finish the project next week.'",
+        "options": {
+          "a": "The project will be finished next week.",
+          "b": "The project will be finishing next week.",
+          "c": "The project will finish next week.",
+          "d": "The project is finished next week."
+        },
+        "correct_option": "a",
+        "explanation": "In passive voice for future tense, 'will be' is used with the past participle of the verb."
+      },
+      {
+        "level": "C1",
+        "question": "Choose the active voice form of the sentence: 'A masterpiece is being painted by the artist.'",
+        "options": {
+          "a": "The artist paints a masterpiece.",
+          "b": "A masterpiece paints the artist.",
+          "c": "The artist is painting a masterpiece.",
+          "d": "A masterpiece is painting the artist."
+        },
+        "correct_option": "c",
+        "explanation": "In active voice, the subject (the artist) is performing the action of painting."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the passive voice form of the sentence: 'Someone stole my bike.'",
+        "options": {
+          "a": "My bike was stolen.",
+          "b": "My bike is stole.",
+          "c": "My bike steals.",
+          "d": "My bike was stealing."
+        },
+        "correct_option": "a",
+        "explanation": "In passive voice, the object (my bike) becomes the subject, and the past participle 'stolen' is used."
+      },
+      {
+        "level": "C1",
+        "question": "Choose the passive voice form of the sentence: 'The company has launched a new product.'",
+        "options": {
+          "a": "A new product has been launched by the company.",
+          "b": "A new product is launched by the company.",
+          "c": "A new product launches by the company.",
+          "d": "A new product is launching by the company."
+        },
+        "correct_option": "a",
+        "explanation": "In passive voice for present perfect, 'has been' is used with the past participle."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the active voice form of the sentence: 'The homework was completed by the students.'",
+        "options": {
+          "a": "The students complete the homework.",
+          "b": "The students completed the homework.",
+          "c": "The homework completes the students.",
+          "d": "The homework is completing the students."
+        },
+        "correct_option": "b",
+        "explanation": "In active voice, the subject (the students) is performing the action of completing."
+      },
+      {
+        "level": "C1",
+        "question": "Choose the passive voice form of the sentence: 'They are going to build a new bridge.'",
+        "options": {
+          "a": "A new bridge is going to be built.",
+          "b": "A new bridge is going to be build.",
+          "c": "A new bridge is going to build.",
+          "d": "A new bridge builds."
+        },
+        "correct_option": "a",
+        "explanation": "In passive voice for future plans, 'is going to be' is used with the past participle."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the active voice form of the sentence: 'The cake was baked by Mary.'",
+        "options": {
+          "a": "Mary bakes the cake.",
+          "b": "Mary baking the cake.",
+          "c": "Mary baked the cake.",
+          "d": "The cake baking Mary."
+        },
+        "correct_option": "c",
+        "explanation": "In active voice, the subject (Mary) is performing the action of baking."
+      },
+      {
+        "level": "C1",
+        "question": "Choose the passive voice form of the sentence: 'The manager has reviewed the report.'",
+        "options": {
+          "a": "The report has been reviewed by the manager.",
+          "b": "The report is reviewed by the manager.",
+          "c": "The report was reviewed by the manager.",
+          "d": "The report reviews by the manager."
+        },
+        "correct_option": "a",
+        "explanation": "In passive voice for present perfect, 'has been' is used with the past participle."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct modal verb to complete the sentence: 'You ___ finish your homework before you go out.'",
+        "options": {
+          "a": "can",
+          "b": "might",
+          "c": "must",
+          "d": "could"
+        },
+        "correct_option": "c",
+        "explanation": "'Must' is used to express obligation or necessity."
+      },
+      {
+        "level": "B2",
+        "question": "Choose the correct modal verb to complete the sentence: 'She ___ be at home. I saw her car outside.'",
+        "options": {
+          "a": "can",
+          "b": "must",
+          "c": "may",
+          "d": "might"
+        },
+        "correct_option": "b",
+        "explanation": "'Must' is used to express a logical conclusion or strong belief."
+      },
+      {
+        "level": "C1",
+        "question": "Choose the correct modal verb to complete the sentence: 'If you had studied harder, you ___ have passed the exam.'",
+        "options": {
+          "a": "could",
+          "b": "might",
+          "c": "must",
+          "d": "should"
         },
         "correct_option": "d",
-        "explanation": "'Took the opportunity' is the correct expression using the delexical verb 'took.'"
+        "explanation": "'Should have' is used to express a regret or a missed obligation."
       },
       {
         "level": "C1",
-        "question": "Fill in the blank: 'He _____ a course in marketing to improve his skills.'",
+        "question": "Choose the correct modal verb to complete the sentence: 'They ___ have taken the wrong turn. They are very late.'",
         "options": {
-          "a": "took",
-          "b": "did",
-          "c": "got",
-          "d": "had"
-        },
-        "correct_option": "b",
-        "explanation": "'Did a course' is the correct expression using the delexical verb 'did.'"
-      },
-      {
-        "level": "B2",
-        "question": "Which option completes the sentence correctly? 'She _____ a promise to help him.'",
-        "options": {
-          "a": "made",
-          "b": "did",
-          "c": "got",
-          "d": "took"
+          "a": "must",
+          "b": "could",
+          "c": "might",
+          "d": "should"
         },
         "correct_option": "a",
-        "explanation": "'Made a promise' is the correct expression using the delexical verb 'made.'"
+        "explanation": "'Must have' is used to make a logical conclusion about a past event."
       },
       {
         "level": "B2",
-        "question": "Complete the sentence: 'He _____ his best to solve the problem.'",
+        "question": "Choose the correct modal verb to complete the sentence: 'You ___ speak three languages fluently.'",
         "options": {
-          "a": "made",
-          "b": "did",
-          "c": "got",
-          "d": "had"
+          "a": "must",
+          "b": "can",
+          "c": "should",
+          "d": "might"
         },
         "correct_option": "b",
-        "explanation": "'Did his best' is the correct expression using the delexical verb 'did.'"
-      },
-      {
-        "level": "C1",
-        "question": "Which option completes the sentence correctly? 'She _____ charge of the situation.'",
-        "options": {
-          "a": "got",
-          "b": "took",
-          "c": "made",
-          "d": "had"
-        },
-        "correct_option": "b",
-        "explanation": "'Took charge' is the correct expression using the delexical verb 'took.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the appropriate verb: 'He _____ a huge amount of work this year.'",
-        "options": {
-          "a": "had",
-          "b": "did",
-          "c": "took",
-          "d": "made"
-        },
-        "correct_option": "b",
-        "explanation": "'Did a huge amount of work' is the correct expression using the delexical verb 'did.'"
-      },
-      {
-        "level": "C1",
-        "question": "Which option completes the sentence correctly? 'She _____ a bad impression during the interview.'",
-        "options": {
-          "a": "did",
-          "b": "made",
-          "c": "got",
-          "d": "took"
-        },
-        "correct_option": "b",
-        "explanation": "'Made a bad impression' is the correct expression using the delexical verb 'made.'"
+        "explanation": "'Can' is used to express ability."
       },
       {
         "level": "B2",
-        "question": "Choose the correct verb: 'He _____ a quick lunch before the meeting.'",
+        "question": "Choose the correct modal verb to complete the sentence: 'We ___ leave now or we will be late.'",
         "options": {
-          "a": "did",
-          "b": "had",
-          "c": "took",
-          "d": "made"
+          "a": "can",
+          "b": "should",
+          "c": "must",
+          "d": "might"
         },
         "correct_option": "b",
-        "explanation": "'Had a quick lunch' is the correct expression using the delexical verb 'had.'"
+        "explanation": "'Should' is used to give advice or make a recommendation."
       },
       {
         "level": "C1",
-        "question": "Which option completes the sentence correctly? 'The lawyer _____ a strong case for her client.'",
+        "question": "Choose the correct modal verb to complete the sentence: 'You ___ have seen the movie. It was fantastic!'",
         "options": {
-          "a": "made",
-          "b": "did",
-          "c": "got",
-          "d": "took"
-        },
-        "correct_option": "a",
-        "explanation": "'Made a strong case' is the correct expression using the delexical verb 'made.'"
-      },
-      {
-        "level": "C1",
-        "question": "Choose the correct verb: 'She _____ an attempt to fix the issue.'",
-        "options": {
-          "a": "had",
-          "b": "did",
-          "c": "made",
-          "d": "took"
-        },
-        "correct_option": "b",
-        "explanation": "'Did an attempt' is the correct expression using the delexical verb 'did.'"
-      },
-      {
-        "level": "C1",
-        "question": "Complete the sentence: 'The manager _____ an effort to improve the team's performance.'",
-        "options": {
-          "a": "got",
-          "b": "made",
-          "c": "took",
-          "d": "had"
-        },
-        "correct_option": "b",
-        "explanation": "'Made an effort' is the correct expression using the delexical verb 'made.'"
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct verb: 'She _____ a phone call to the customer service.'",
-        "options": {
-          "a": "got",
-          "b": "took",
-          "c": "made",
-          "d": "had"
+          "a": "could",
+          "b": "must",
+          "c": "should",
+          "d": "might"
         },
         "correct_option": "c",
-        "explanation": "'Made a phone call' is the correct expression using the delexical verb 'made.'"
+        "explanation": "'Should have' is used to express that something would have been a good idea in the past."
       },
       {
         "level": "C1",
-        "question": "Which option completes the sentence correctly? 'They _____ a decision to hire more staff.'",
+        "question": "Choose the correct modal verb to complete the sentence: 'I ___ finish the report by tomorrow if I work all night.'",
         "options": {
-          "a": "got",
-          "b": "made",
-          "c": "took",
-          "d": "did"
-        },
-        "correct_option": "b",
-        "explanation": "'Made a decision' is the correct expression using the delexical verb 'made.'"
-      },
-      {
-        "level": "B2",
-        "question": "Choose the correct verb: 'He _____ a mistake by trusting them.'",
-        "options": {
-          "a": "did",
-          "b": "took",
-          "c": "made",
-          "d": "got"
-        },
-        "correct_option": "c",
-        "explanation": "'Made a mistake' is the correct expression using the delexical verb 'made.'"
-      },
-      {
-        "level": "B2",
-        "question": "The company __________ (announce) its new product launch last week.",
-        "options": {
-          "a": "announced",
-          "b": "was announced",
-          "c": "is announced",
-          "d": "will announce"
-        },
-        "correct_option": "a",
-        "explanation": "The sentence is in the active voice and past tense, so the correct option is 'announced.'"
-      },
-      {
-        "level": "B2",
-        "question": "The project __________ (complete) by the end of the week.",
-        "options": {
-          "a": "completed",
-          "b": "was completed",
-          "c": "will be completed",
-          "d": "is completed"
-        },
-        "correct_option": "c",
-        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be completed.'"
-      },
-      {
-        "level": "C1",
-        "question": "The book __________ (write) by an unknown author.",
-        "options": {
-          "a": "is written",
-          "b": "has written",
-          "c": "was written",
-          "d": "writes"
-        },
-        "correct_option": "c",
-        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was written.'"
-      },
-      {
-        "level": "B2",
-        "question": "The new policy __________ (implement) in the coming month.",
-        "options": {
-          "a": "was implemented",
-          "b": "will be implemented",
-          "c": "is implementing",
-          "d": "has implemented"
-        },
-        "correct_option": "b",
-        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be implemented.'"
-      },
-      {
-        "level": "C1",
-        "question": "She __________ (give) a raise for her excellent work.",
-        "options": {
-          "a": "is given",
-          "b": "was giving",
-          "c": "will be given",
-          "d": "gives"
-        },
-        "correct_option": "c",
-        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be given.'"
-      },
-      {
-        "level": "B2",
-        "question": "The meal __________ (prepare) by the chef for the dinner party.",
-        "options": {
-          "a": "is prepared",
-          "b": "was prepared",
-          "c": "will be prepared",
-          "d": "prepares"
-        },
-        "correct_option": "b",
-        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was prepared.'"
-      },
-      {
-        "level": "C1",
-        "question": "The documents __________ (not send) yet.",
-        "options": {
-          "a": "have not been sent",
-          "b": "did not send",
-          "c": "are not sending",
-          "d": "are not sent"
-        },
-        "correct_option": "a",
-        "explanation": "The sentence is in passive voice and present perfect tense, so the correct option is 'have not been sent.'"
-      },
-      {
-        "level": "B2",
-        "question": "He __________ (blame) for the error by his colleagues.",
-        "options": {
-          "a": "blames",
-          "b": "was blamed",
-          "c": "is blamed",
-          "d": "will be blamed"
-        },
-        "correct_option": "b",
-        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was blamed.'"
-      },
-      {
-        "level": "C1",
-        "question": "The meeting __________ (postpone) due to unforeseen circumstances.",
-        "options": {
-          "a": "is postponed",
-          "b": "was postponed",
-          "c": "has been postponed",
-          "d": "is postponing"
-        },
-        "correct_option": "c",
-        "explanation": "The sentence is in passive voice and present perfect tense, so the correct option is 'has been postponed.'"
-      },
-      {
-        "level": "B2",
-        "question": "The office __________ (paint) next week.",
-        "options": {
-          "a": "was painted",
-          "b": "will be painted",
-          "c": "is painted",
-          "d": "paints"
-        },
-        "correct_option": "b",
-        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be painted.'"
-      },
-      {
-        "level": "C1",
-        "question": "The decision __________ (make) after careful consideration.",
-        "options": {
-          "a": "is made",
-          "b": "will make",
-          "c": "was made",
-          "d": "has been made"
+          "a": "can",
+          "b": "must",
+          "c": "should",
+          "d": "might"
         },
         "correct_option": "d",
-        "explanation": "The sentence is in passive voice and present perfect tense, so the correct option is 'has been made.'"
+        "explanation": "'Might' is used to express a possibility."
       },
       {
         "level": "B2",
-        "question": "The team __________ (award) for their outstanding performance.",
+        "question": "Choose the correct modal verb to complete the sentence: '___ you help me with this project?'",
         "options": {
-          "a": "will be awarded",
-          "b": "is awarded",
-          "c": "awarded",
-          "d": "has awarded"
+          "a": "May",
+          "b": "Must",
+          "c": "Can",
+          "d": "Should"
         },
-        "correct_option": "a",
-        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be awarded.'"
-      },
-      {
-        "level": "C1",
-        "question": "The evidence __________ (destroy) before the investigation could begin.",
-        "options": {
-          "a": "destroyed",
-          "b": "was destroyed",
-          "c": "is destroyed",
-          "d": "has destroyed"
-        },
-        "correct_option": "b",
-        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was destroyed.'"
+        "correct_option": "c",
+        "explanation": "'Can' is used to make a request."
       },
       {
         "level": "B2",
-        "question": "The patient __________ (treat) by the specialist.",
+        "question": "Choose the correct modal verb to complete the sentence: 'He ___ be very tired after such a long journey.'",
         "options": {
-          "a": "will be treated",
-          "b": "is treated",
-          "c": "treated",
-          "d": "was treating"
+          "a": "might",
+          "b": "should",
+          "c": "must",
+          "d": "could"
         },
-        "correct_option": "b",
-        "explanation": "The sentence is in passive voice and present tense, so the correct option is 'is treated.'"
-      },
-      {
-        "level": "C1",
-        "question": "The law __________ (enforce) to prevent such violations.",
-        "options": {
-          "a": "was enforced",
-          "b": "is enforced",
-          "c": "will enforce",
-          "d": "has been enforced"
-        },
-        "correct_option": "b",
-        "explanation": "The sentence is in passive voice and present tense, so the correct option is 'is enforced.'"
-      },
-      {
-        "level": "B2",
-        "question": "The movie __________ (release) next month.",
-        "options": {
-          "a": "released",
-          "b": "will release",
-          "c": "releases",
-          "d": "will be released"
-        },
-        "correct_option": "d",
-        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be released.'"
-      },
-      {
-        "level": "C1",
-        "question": "The plan __________ (approve) after much debate.",
-        "options": {
-          "a": "was approved",
-          "b": "approved",
-          "c": "approves",
-          "d": "has approved"
-        },
-        "correct_option": "a",
-        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was approved.'"
-      },
-      {
-        "level": "B2",
-        "question": "The message __________ (send) to all employees.",
-        "options": {
-          "a": "was sent",
-          "b": "sends",
-          "c": "is sending",
-          "d": "is sent"
-        },
-        "correct_option": "a",
-        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was sent.'"
-      },
-      {
-        "level": "C1",
-        "question": "The building __________ (construct) by a renowned architect.",
-        "options": {
-          "a": "was constructed",
-          "b": "constructs",
-          "c": "is constructing",
-          "d": "construct"
-        },
-        "correct_option": "a",
-        "explanation": "The sentence is in passive voice and past tense, so the correct option is 'was constructed.'"
-      },
-      {
-        "level": "B2",
-        "question": "The book __________ (publish) next year.",
-        "options": {
-          "a": "will be published",
-          "b": "published",
-          "c": "publishing",
-          "d": "is published"
-        },
-        "correct_option": "a",
-        "explanation": "The sentence is in passive voice and future tense, so the correct option is 'will be published.'"
+        "correct_option": "c",
+        "explanation": "'Must' is used to express a logical conclusion."
       }
     ]
   }
