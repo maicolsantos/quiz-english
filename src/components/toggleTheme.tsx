@@ -31,7 +31,7 @@ export const ToggleTheme = () => {
         ) : (
           <Moon className="mr-2 h-4 w-4" />
         )}
-        <span>Dark mode</span>
+        <span>{resolvedTheme === 'dark' ? 'Light' : 'Dark'} mode</span>
       </DropdownMenuItem>
     </>
   )
