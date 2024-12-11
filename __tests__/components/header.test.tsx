@@ -9,4 +9,10 @@ describe('Header', () => {
     })
     expect(heading).toBeInTheDocument()
   })
+
+  it('should render total questions', () => {
+    render(<Header totalQuestions={1} />)
+    const totalQuestions = screen.getByText(/(1 questions)/i)
+    expect(totalQuestions).toBeInTheDocument()
+  })
 })
