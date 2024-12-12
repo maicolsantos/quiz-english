@@ -10,22 +10,19 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [23.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
+      - uses: actions/checkout@v4
 
-    - name: Run Vitest tests
-      run: npm run test
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '23' # or whatever version you're using
+
+      - name: Install dependencies
+        run: npm install # or yarn install
+
+      # Now you can run Vitest
+      - name: Run tests
+        run: npm run test # or whatever your test script is named
